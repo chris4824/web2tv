@@ -262,7 +262,7 @@
     <desc>Kids battle spooky decorations and deliver laugh-out-loud one-liners while trick-or-treating; adults face unexpected frights from creepy-crawly surprises.</desc>
   </programme>
   <programme start="20260119040200 +0000" stop="20260119070000 +0000" channel="abc-kabc-los-angeles-ca">
-    <title>Movie</title>
+    <title>Mrs. Doubtfire</title>
     <sub-title>Mrs. Doubtfire</sub-title>
     <desc>An unemployed actor disguises himself as an elderly nanny in order to spend more time with his estranged family.</desc>
   </programme>
@@ -357,7 +357,7 @@
     <desc>Kids battle spooky decorations and deliver laugh-out-loud one-liners while trick-or-treating; adults face unexpected frights from creepy-crawly surprises.</desc>
   </programme>
   <programme start="20260119010200 +0000" stop="20260119040000 +0000" channel="abc-wabc-new-york-ny">
-    <title>Movie</title>
+    <title>Mrs. Doubtfire</title>
     <sub-title>Mrs. Doubtfire</sub-title>
     <desc>An unemployed actor disguises himself as an elderly nanny in order to spend more time with his estranged family.</desc>
   </programme>
@@ -616,37 +616,37 @@
     <display-name>AMC Eastern Feed</display-name>
   </channel>
   <programme start="20260118163000 +0000" stop="20260118190000 +0000" channel="amc-eastern-feed">
-    <title>Movie</title>
+    <title>Rocky</title>
     <sub-title>Rocky</sub-title>
     <desc>Heavyweight champ Apollo Creed gives Philadelphia club fighter Rocky Balboa (Sylvester Stallone) a title shot.</desc>
   </programme>
   <programme start="20260118190000 +0000" stop="20260118213000 +0000" channel="amc-eastern-feed">
-    <title>Movie</title>
+    <title>Rocky II</title>
     <sub-title>Rocky II</sub-title>
     <desc>Underdog Philadelphia fighter Rocky Balboa (Sylvester Stallone) gets another shot at heavyweight champ Apollo Creed.</desc>
   </programme>
   <programme start="20260118213000 +0000" stop="20260119000000 +0000" channel="amc-eastern-feed">
-    <title>Movie</title>
+    <title>Rocky III</title>
     <sub-title>Rocky III</sub-title>
     <desc>Following his crushing defeat by Clubber Lang, Rocky Balboa joins forces with Apollo Creed in an effort to regain his title.</desc>
   </programme>
   <programme start="20260119000000 +0000" stop="20260119020000 +0000" channel="amc-eastern-feed">
-    <title>Movie</title>
+    <title>Rocky IV</title>
     <sub-title>Rocky IV</sub-title>
     <desc>Heavyweight champion Rocky Balboa trains in Siberia for a match against the Soviet fighter who killed Apollo Creed. In front of a ferocious Russian crowd, he fights for one final showdown.</desc>
   </programme>
   <programme start="20260119020000 +0000" stop="20260119053000 +0000" channel="amc-eastern-feed">
-    <title>Movie</title>
+    <title>Armageddon</title>
     <sub-title>Armageddon</sub-title>
     <desc>A NASA rep (Billy Bob Thornton) recruits an oil driller (Bruce Willis) and his team of mavericks to save Earth from an oncoming asteroid.</desc>
   </programme>
   <programme start="20260119053000 +0000" stop="20260119090000 +0000" channel="amc-eastern-feed">
-    <title>Movie</title>
+    <title>Armageddon</title>
     <sub-title>Armageddon</sub-title>
     <desc>A NASA rep (Billy Bob Thornton) recruits an oil driller (Bruce Willis) and his team of mavericks to save Earth from an oncoming asteroid.</desc>
   </programme>
   <programme start="20260119090000 +0000" stop="20260119110000 +0000" channel="amc-eastern-feed">
-    <title>Movie</title>
+    <title>First Blood</title>
     <sub-title>First Blood</sub-title>
     <desc>Green Beret veteran Rambo (Sylvester Stallone) takes on a Pacific Northwest sheriff (Brian Dennehy) and the National Guard.</desc>
   </programme>
@@ -680,7 +680,7 @@
     <desc>The Stooges are artists living in Paris; when the landlord comes after the overdue rent, the boys skip out and wind up joining the French Foreign Legion.</desc>
   </programme>
   <programme start="20260119143000 +0000" stop="20260119170000 +0000" channel="amc-eastern-feed">
-    <title>Movie</title>
+    <title>Lethal Weapon</title>
     <sub-title>Lethal Weapon</sub-title>
     <desc>A detective (Danny Glover) with a family hunts drug smugglers with his new partner, a loner (Mel Gibson) with a death wish.</desc>
   </programme>
@@ -929,32 +929,32 @@
     <display-name>BBC America East</display-name>
   </channel>
   <programme start="20260118154500 +0000" stop="20260118184500 +0000" channel="bbc-america-east">
-    <title>Movie</title>
+    <title>The Equalizer</title>
     <sub-title>The Equalizer</sub-title>
     <desc>A man who believes he has put his mysterious past behind him cannot stand idly by when he meets a young girl under the control of ultra-violent Russian gangsters.</desc>
   </programme>
   <programme start="20260118184500 +0000" stop="20260118213000 +0000" channel="bbc-america-east">
-    <title>Movie</title>
+    <title>The Equalizer 2</title>
     <sub-title>The Equalizer 2</sub-title>
     <desc>Robert McCall's mysterious past cuts especially close to home when thugs kill Susan Plummer, his best friend and former colleague. Now out for revenge, McCall must take on a crew of highly trained assassins who'll stop at nothing to destroy him.</desc>
   </programme>
   <programme start="20260118213000 +0000" stop="20260119000000 +0000" channel="bbc-america-east">
-    <title>Movie</title>
+    <title>Draft Day</title>
     <sub-title>Draft Day</sub-title>
     <desc>On the day of the NFL draft, the general manager of the Cleveland Browns must decide what he's willing to sacrifice as he angles for the number-one pick.</desc>
   </programme>
   <programme start="20260119000000 +0000" stop="20260119031500 +0000" channel="bbc-america-east">
-    <title>Movie</title>
+    <title>Open Range</title>
     <sub-title>Open Range</sub-title>
     <desc>Cattle herdsmen (Robert Duvall, Kevin Costner) unite to battle a ruthless rancher and his henchmen in 1882.</desc>
   </programme>
   <programme start="20260119031500 +0000" stop="20260119071500 +0000" channel="bbc-america-east">
-    <title>Movie</title>
+    <title>Dances With Wolves</title>
     <sub-title>Dances With Wolves</sub-title>
     <desc>Costner's epic vision of the American frontier as seen through the eyes of a 19th-century U.S. Cavalry officer.</desc>
   </programme>
   <programme start="20260119071500 +0000" stop="20260119103000 +0000" channel="bbc-america-east">
-    <title>Movie</title>
+    <title>Open Range</title>
     <sub-title>Open Range</sub-title>
     <desc>Cattle herdsmen (Robert Duvall, Kevin Costner) unite to battle a ruthless rancher and his henchmen in 1882.</desc>
   </programme>
@@ -968,7 +968,7 @@
     <desc>In his eighties, David Attenborough embarked on a seven-year journey; from the stunning Great Barrier Reef to the rainforests of Borneo, follow his voyage across the globe.</desc>
   </programme>
   <programme start="20260119120000 +0000" stop="20260119160000 +0000" channel="bbc-america-east">
-    <title>Movie</title>
+    <title>Dances With Wolves</title>
     <sub-title>Dances With Wolves</sub-title>
     <desc>Costner's epic vision of the American frontier as seen through the eyes of a 19th-century U.S. Cavalry officer.</desc>
   </programme>
@@ -1203,17 +1203,17 @@
     <display-name>BET Eastern Feed</display-name>
   </channel>
   <programme start="20260118153000 +0000" stop="20260118183000 +0000" channel="bet-eastern-feed">
-    <title>Movie</title>
+    <title>Tyler Perry's Diary of a Mad Black Woman</title>
     <sub-title>Tyler Perry's Diary of a Mad Black Woman</sub-title>
     <desc>A woman must put her life back together after her husband of 18 years abruptly kicks her out of the house.</desc>
   </programme>
   <programme start="20260118183000 +0000" stop="20260118213000 +0000" channel="bet-eastern-feed">
-    <title>Movie</title>
+    <title>Sister Act 2: Back in the Habit</title>
     <sub-title>Sister Act 2: Back in the Habit</sub-title>
     <desc>Showgirl Deloris Van Cartier returns as Sister Mary Clarence to teach music to a group of Catholic students, whose run-down school is slated for closure.</desc>
   </programme>
   <programme start="20260118213000 +0000" stop="20260119000000 +0000" channel="bet-eastern-feed">
-    <title>Movie</title>
+    <title>Just Wright</title>
     <sub-title>Just Wright</sub-title>
     <desc>Leslie, a physiotherapist, falls for NBA star Scott while helping him recover. Scott loves Leslie's friend Morgan, who hides her real personality from him.</desc>
   </programme>
@@ -1411,17 +1411,17 @@
     <desc>Comic superstar Chris Rock with Kevin, JB and Anthony Anderson for Oliver's comedy routine; Kevin's propensity for shoplifting.</desc>
   </programme>
   <programme start="20260118193000 +0000" stop="20260118220000 +0000" channel="bet-her">
-    <title>Movie</title>
+    <title>The Final Say</title>
     <sub-title>The Final Say</sub-title>
     <desc>A married couple decides to go their separate ways after dealing with the aftermath of infertility and loss. But, they quickly learn that a higher power has the final say, even after the final decree has been given.</desc>
   </programme>
   <programme start="20260118220000 +0000" stop="20260119010000 +0000" channel="bet-her">
-    <title>Movie</title>
+    <title>Fatherhood</title>
     <sub-title>Fatherhood</sub-title>
     <desc>A widowed dad copes with doubts, fears, heartache and dirty diapers as he sets out to raise his daughter on his own.</desc>
   </programme>
   <programme start="20260119010000 +0000" stop="20260119040000 +0000" channel="bet-her">
-    <title>Movie</title>
+    <title>Favorite Son</title>
     <sub-title>Favorite Son</sub-title>
     <desc>Twin brothers in a gospel group struggle to find balance of life, love, faith, and religion while under the strict rule of their father, who is the reverend of a megachurch.</desc>
   </programme>
@@ -3235,82 +3235,82 @@
     <display-name>Cinemax Eastern Feed</display-name>
   </channel>
   <programme start="20260118150500 +0000" stop="20260118163600 +0000" channel="cinemax-eastern-feed">
-    <title>Movie</title>
+    <title>Snatched</title>
     <sub-title>Snatched</sub-title>
     <desc>Dumped by her boyfriend, Emily persuades her mother, Linda, to accompany her on an exotic getaway to South America. The two polar opposites must quickly work through their differences to escape from a wildly outrageous and dangerous jungle adventure.</desc>
   </programme>
   <programme start="20260118163600 +0000" stop="20260118175900 +0000" channel="cinemax-eastern-feed">
-    <title>Movie</title>
+    <title>Extraction</title>
     <sub-title>Extraction</sub-title>
     <desc>A government analyst (Kellan Lutz) launches his own rescue mission when terrorists kidnap his father (Bruce Willis), a retired CIA operative.</desc>
   </programme>
   <programme start="20260118175900 +0000" stop="20260118194700 +0000" channel="cinemax-eastern-feed">
-    <title>Movie</title>
+    <title>Deepwater Horizon</title>
     <sub-title>Deepwater Horizon</sub-title>
     <desc>A dramatization of the disaster in April 2010, when the offshore drilling rig called the Deepwater Horizon exploded, resulting in the worst oil spill in American history.</desc>
   </programme>
   <programme start="20260118194700 +0000" stop="20260118213000 +0000" channel="cinemax-eastern-feed">
-    <title>Movie</title>
+    <title>Ricochet</title>
     <sub-title>Ricochet</sub-title>
     <desc>An escaped hit man (John Lithgow) seeks revenge on the policeman turned district attorney (Denzel Washington) who sent him to prison.</desc>
   </programme>
   <programme start="20260118213000 +0000" stop="20260118230000 +0000" channel="cinemax-eastern-feed">
-    <title>Movie</title>
+    <title>Superman IV: The Quest for Peace</title>
     <sub-title>Superman IV: The Quest for Peace</sub-title>
     <desc>The Man of Steel (Christopher Reeve) crusades for nuclear disarmament and meets Lex Luthor's (Gene Hackman) latest creation, Nuclear Man.</desc>
   </programme>
   <programme start="20260118230000 +0000" stop="20260119004300 +0000" channel="cinemax-eastern-feed">
-    <title>Movie</title>
+    <title>The Wolfman</title>
     <sub-title>The Wolfman</sub-title>
     <desc>A nobleman (Anthony Hopkins) contends with an ancient curse, scouring his childhood homeland for his missing brother, while a bloodthirsty beast prowls the moors.</desc>
   </programme>
   <programme start="20260119004300 +0000" stop="20260119022000 +0000" channel="cinemax-eastern-feed">
-    <title>Movie</title>
+    <title>Evil Dead Rise</title>
     <sub-title>Evil Dead Rise</sub-title>
     <desc>A reunion between two estranged sisters gets cut short by the rise of flesh-possessing demons, thrusting them into a primal battle for survival as they face the most nightmarish version of family imaginable.</desc>
   </programme>
   <programme start="20260119022000 +0000" stop="20260119040000 +0000" channel="cinemax-eastern-feed">
-    <title>Movie</title>
+    <title>Red Riding Hood</title>
     <sub-title>Red Riding Hood</sub-title>
     <desc>A young woman (Amanda Seyfried) begins to suspect that the werewolf terrorizing her village is someone she loves.</desc>
   </programme>
   <programme start="20260119040000 +0000" stop="20260119053700 +0000" channel="cinemax-eastern-feed">
-    <title>Movie</title>
+    <title>The Nun</title>
     <sub-title>The Nun</sub-title>
     <desc>Vatican officials send a priest and a novitiate to investigate the suicide of a young nun in Romania. They soon find themselves in a fight for their lives when they encounter a demonic force that takes the shape of a nun.</desc>
   </programme>
   <programme start="20260119053700 +0000" stop="20260119072100 +0000" channel="cinemax-eastern-feed">
-    <title>Movie</title>
+    <title>MaXXXine</title>
     <sub-title>MaXXXine</sub-title>
     <desc>Aspiring movie star and hustler Maxine Minx finally gets her big break. But as a mysterious killer stalks the starlets of 1980s Hollywood, a trail of blood threatens to reveal her sinister past.</desc>
   </programme>
   <programme start="20260119072100 +0000" stop="20260119093100 +0000" channel="cinemax-eastern-feed">
-    <title>Movie</title>
+    <title>Glass</title>
     <sub-title>Glass</sub-title>
     <desc>David Dunn looks to deliver vigilante justice to the Beast -- the madman who has superhuman strength and 23 personalities. Their epic showdown leads them to the mysterious Elijah Price, the criminal mastermind who holds critical secrets for both men.</desc>
   </programme>
   <programme start="20260119093100 +0000" stop="20260119111900 +0000" channel="cinemax-eastern-feed">
-    <title>Movie</title>
+    <title>Look Into My Eyes</title>
     <sub-title>Look Into My Eyes</sub-title>
     <desc>A group of New York City psychics conducts deeply intimate readings for their clients, revealing a kaleidoscope of loneliness, connection and healing.</desc>
   </programme>
   <programme start="20260119093100 +0000" stop="20260119111900 +0000" channel="cinemax-eastern-feed">
-    <title>Movie</title>
+    <title>Look Into My Eyes</title>
     <sub-title>Look Into My Eyes</sub-title>
     <desc>A group of New York City psychics conducts deeply intimate readings for their clients, revealing a kaleidoscope of loneliness, connection and healing.</desc>
   </programme>
   <programme start="20260119111900 +0000" stop="20260119124300 +0000" channel="cinemax-eastern-feed">
-    <title>Movie</title>
+    <title>Chronicle</title>
     <sub-title>Chronicle</sub-title>
     <desc>Three high-school friends make a discovery that gives them incredible superpowers, but their lives spin out of control when their darker sides begin to emerge.</desc>
   </programme>
   <programme start="20260119124300 +0000" stop="20260119141700 +0000" channel="cinemax-eastern-feed">
-    <title>Movie</title>
+    <title>Monsters</title>
     <sub-title>Monsters</sub-title>
     <desc>A photojournalist must bring his publisher's daughter along when his latest assignment takes him into an area populated by vicious alien beasts.</desc>
   </programme>
   <programme start="20260119141700 +0000" stop="20260119155500 +0000" channel="cinemax-eastern-feed">
-    <title>Movie</title>
+    <title>Away We Go</title>
     <sub-title>Away We Go</sub-title>
     <desc>An expectant couple (John Krasinski, Maya Rudolph) reconnect with old friends and relatives as they travel across America in search of a good place to settle down and raise their family.</desc>
   </programme>
@@ -3333,32 +3333,32 @@
     <desc>Mama suspects Naomi of trying to cash in on Vint's life insurance policy.</desc>
   </programme>
   <programme start="20260118170000 +0000" stop="20260118193000 +0000" channel="cmt-us-eastern-feed">
-    <title>Movie</title>
+    <title>Blended</title>
     <sub-title>Blended</sub-title>
     <desc>Soon after their blind date goes disastrously wrong, two single parents (Adam Sandler, Drew Barrymore) and their children end up sharing a suite together at an African resort.</desc>
   </programme>
   <programme start="20260118193000 +0000" stop="20260118214500 +0000" channel="cmt-us-eastern-feed">
-    <title>Movie</title>
+    <title>Daddy Day Care</title>
     <sub-title>Daddy Day Care</sub-title>
     <desc>After getting fired, Charlie and Phil start a daycare facility to make ends meet. Once their business picks up, the established daycare center in town plans to bring them down.</desc>
   </programme>
   <programme start="20260118214500 +0000" stop="20260119001500 +0000" channel="cmt-us-eastern-feed">
-    <title>Movie</title>
+    <title>The Other Guys</title>
     <sub-title>The Other Guys</sub-title>
     <desc>Two deskbound detectives get more than they bargain for when they take on a seemingly minor case that may turn out to be New York's biggest crime.</desc>
   </programme>
   <programme start="20260119001500 +0000" stop="20260119024500 +0000" channel="cmt-us-eastern-feed">
-    <title>Movie</title>
+    <title>Blended</title>
     <sub-title>Blended</sub-title>
     <desc>Soon after their blind date goes disastrously wrong, two single parents (Adam Sandler, Drew Barrymore) and their children end up sharing a suite together at an African resort.</desc>
   </programme>
   <programme start="20260119024500 +0000" stop="20260119051500 +0000" channel="cmt-us-eastern-feed">
-    <title>Movie</title>
+    <title>The Other Guys</title>
     <sub-title>The Other Guys</sub-title>
     <desc>Two deskbound detectives get more than they bargain for when they take on a seemingly minor case that may turn out to be New York's biggest crime.</desc>
   </programme>
   <programme start="20260119051500 +0000" stop="20260119073000 +0000" channel="cmt-us-eastern-feed">
-    <title>Movie</title>
+    <title>Daddy Day Care</title>
     <sub-title>Daddy Day Care</sub-title>
     <desc>After getting fired, Charlie and Phil start a daycare facility to make ends meet. Once their business picks up, the established daycare center in town plans to bring them down.</desc>
   </programme>
@@ -4083,7 +4083,7 @@
     <desc>Featured magicians Yann Yuro, Helen Coghlan, Jason Michaels and Alexander Boyce.</desc>
   </programme>
   <programme start="20260119040000 +0000" stop="20260119063000 +0000" channel="cw-kfmbtv2-san-diego-ca">
-    <title>Movie</title>
+    <title>Two Weeks Notice</title>
     <sub-title>Two Weeks Notice</sub-title>
     <desc>A millionaire (Hugh Grant) confronts his feelings for his lawyer (Sandra Bullock), who is quitting after five years of service.</desc>
   </programme>
@@ -4218,7 +4218,7 @@
     <desc>Featured magicians Yann Yuro, Helen Coghlan, Jason Michaels and Alexander Boyce.</desc>
   </programme>
   <programme start="20260119010000 +0000" stop="20260119030000 +0000" channel="cw-wdcw-district-of-columbia">
-    <title>Movie</title>
+    <title>Two Weeks Notice</title>
     <sub-title>Two Weeks Notice</sub-title>
     <desc>A millionaire (Hugh Grant) confronts his feelings for his lawyer (Sandra Bullock), who is quitting after five years of service.</desc>
   </programme>
@@ -4930,7 +4930,7 @@
     <display-name>Disney Eastern Feed</display-name>
   </channel>
   <programme start="20260118160500 +0000" stop="20260118174000 +0000" channel="disney-eastern-feed">
-    <title>Movie</title>
+    <title>Mulan</title>
     <sub-title>Mulan</sub-title>
     <desc>A Chinese maiden disguises herself as a man to take her father's place in battle against invading Huns.</desc>
   </programme>
@@ -4999,7 +4999,7 @@
     <desc>The mischievous Cricket Green and his family pick up their lives in the country to start anew in the big city.</desc>
   </programme>
   <programme start="20260119000000 +0000" stop="20260119015000 +0000" channel="disney-eastern-feed">
-    <title>Movie</title>
+    <title>Raya and the Last Dragon</title>
     <sub-title>Raya and the Last Dragon</sub-title>
     <desc>Long ago, dragons sacrificed themselves to save humanity from sinister monsters known as the Druun. Now, 500 years later, those same monsters have returned, and it's up to a lone warrior to track down the last dragon and stop the Druun for good.</desc>
   </programme>
@@ -5659,42 +5659,42 @@
     <display-name>E! Entertainment USA Eastern Feed</display-name>
   </channel>
   <programme start="20260118160000 +0000" stop="20260118190000 +0000" channel="e-entertainment-usa-eastern-feed">
-    <title>Movie</title>
+    <title>The King of Staten Island</title>
     <sub-title>The King of Staten Island</sub-title>
     <desc>An aimless slacker dreams of becoming a tattoo artist while living with his mother and hanging out with his friends in Staten Island, N.Y.</desc>
   </programme>
   <programme start="20260118190000 +0000" stop="20260118210000 +0000" channel="e-entertainment-usa-eastern-feed">
-    <title>Movie</title>
+    <title>Just Friends</title>
     <sub-title>Just Friends</sub-title>
     <desc>A music executive (Ryan Reynolds) tries to woo his high-school crush (Amy Smart) while keeping his suspicious ex-girlfriend (Anna Faris) at bay.</desc>
   </programme>
   <programme start="20260118210000 +0000" stop="20260118230000 +0000" channel="e-entertainment-usa-eastern-feed">
-    <title>Movie</title>
+    <title>17 Again</title>
     <sub-title>17 Again</sub-title>
     <desc>A 37-year-old gets the chance to correct the mistakes of his past when he is miraculously transformed into a teenager (Zac Efron).</desc>
   </programme>
   <programme start="20260118230000 +0000" stop="20260119010000 +0000" channel="e-entertainment-usa-eastern-feed">
-    <title>Movie</title>
+    <title>Just Friends</title>
     <sub-title>Just Friends</sub-title>
     <desc>A music executive (Ryan Reynolds) tries to woo his high-school crush (Amy Smart) while keeping his suspicious ex-girlfriend (Anna Faris) at bay.</desc>
   </programme>
   <programme start="20260119010000 +0000" stop="20260119030000 +0000" channel="e-entertainment-usa-eastern-feed">
-    <title>Movie</title>
+    <title>17 Again</title>
     <sub-title>17 Again</sub-title>
     <desc>A 37-year-old gets the chance to correct the mistakes of his past when he is miraculously transformed into a teenager (Zac Efron).</desc>
   </programme>
   <programme start="20260119030000 +0000" stop="20260119050000 +0000" channel="e-entertainment-usa-eastern-feed">
-    <title>Movie</title>
+    <title>Starsky &amp; Hutch</title>
     <sub-title>Starsky &amp; Hutch</sub-title>
     <desc>Thrown together as partners, two detectives (Ben Stiller, Owen Wilson) investigate a cocaine dealer suspected of murder.</desc>
   </programme>
   <programme start="20260119050000 +0000" stop="20260119080000 +0000" channel="e-entertainment-usa-eastern-feed">
-    <title>Movie</title>
+    <title>The King of Staten Island</title>
     <sub-title>The King of Staten Island</sub-title>
     <desc>An aimless slacker dreams of becoming a tattoo artist while living with his mother and hanging out with his friends in Staten Island, N.Y.</desc>
   </programme>
   <programme start="20260119080000 +0000" stop="20260119103000 +0000" channel="e-entertainment-usa-eastern-feed">
-    <title>Movie</title>
+    <title>Honk for Jesus. Save Your Soul</title>
     <sub-title>Honk for Jesus. Save Your Soul</sub-title>
     <desc>After a scandal rocks their megachurch, a woman and her husband must rebuild their congregation and reconcile their faith by all means necessary to make the biggest comeback that commodified religion has ever seen.</desc>
   </programme>
@@ -9148,37 +9148,37 @@
     <display-name>Freeform East Feed</display-name>
   </channel>
   <programme start="20260118150500 +0000" stop="20260118174000 +0000" channel="freeform-east-feed">
-    <title>Movie</title>
+    <title>Alice Through the Looking Glass</title>
     <sub-title>Alice Through the Looking Glass</sub-title>
     <desc>After returning to Underland, Alice (Mia Wasikowska) receives a mission from the White Queen (Anne Hathaway) to travel back in time to save the Mad Hatter's (Johnny Depp) family.</desc>
   </programme>
   <programme start="20260118174000 +0000" stop="20260118201000 +0000" channel="freeform-east-feed">
-    <title>Movie</title>
+    <title>The Princess Bride</title>
     <sub-title>The Princess Bride</sub-title>
     <desc>A storybook stableboy turns pirate (Cary Elwes) and rescues his beloved (Robin Wright), who is about to marry a dreadful prince.</desc>
   </programme>
   <programme start="20260118201000 +0000" stop="20260118221500 +0000" channel="freeform-east-feed">
-    <title>Movie</title>
+    <title>Brave</title>
     <sub-title>Brave</sub-title>
     <desc>A courageous Scottish princess (Kelly Macdonald) must figure out how to undo a beastly curse after an eccentric witch (Julie Walters) grants her an ill-fated wish.</desc>
   </programme>
   <programme start="20260118221500 +0000" stop="20260119002500 +0000" channel="freeform-east-feed">
-    <title>Movie</title>
+    <title>Encanto</title>
     <sub-title>Encanto</sub-title>
     <desc>A Colombian girl may be the last hope for her family when she discovers that the magic surrounding the Encanto -- an enchanted place that blesses children with unique gifts -- is now in danger.</desc>
   </programme>
   <programme start="20260119002500 +0000" stop="20260119025500 +0000" channel="freeform-east-feed">
-    <title>Movie</title>
+    <title>Moana</title>
     <sub-title>Moana</sub-title>
     <desc>A once-mighty demigod (Dwayne Johnson) and a spirited teenager (Auli'i Cravalho) embark on an epic adventure across the ocean.</desc>
   </programme>
   <programme start="20260119025500 +0000" stop="20260119045500 +0000" channel="freeform-east-feed">
-    <title>Movie</title>
+    <title>Lilo &amp; Stitch</title>
     <sub-title>Lilo &amp; Stitch</sub-title>
     <desc>A lonely girl (Daveigh Chase) adopts a dog (Chris Sanders) which is really a mischievous alien hiding from intergalactic hunters.</desc>
   </programme>
   <programme start="20260119045500 +0000" stop="20260119070000 +0000" channel="freeform-east-feed">
-    <title>Movie</title>
+    <title>Luca</title>
     <sub-title>Luca</sub-title>
     <desc>A boy tries to help his best friend hide a fantastical secret -- he turns into a sea monster whenever he comes in contact with water.</desc>
   </programme>
@@ -9358,7 +9358,7 @@
     <desc>Two old friends bumping into each other at a train station in England leads to formation of the Rolling Stones and the band's enduring success in music and business.</desc>
   </programme>
   <programme start="20260119090000 +0000" stop="20260119110000 +0000" channel="fuse-tv-eastern-feed">
-    <title>Movie</title>
+    <title>This Is Not Financial Advice</title>
     <sub-title>This Is Not Financial Advice</sub-title>
     <desc>Glauber Contessoto gambles his life savings on a joke cryptocurrency. Two months later, he becomes the Dogecoin Millionaire and an internet legend. While it might seem easy to get rich online, it's even easier to lose it all.</desc>
   </programme>
@@ -9391,57 +9391,57 @@
     <display-name>FX Movie Channel</display-name>
   </channel>
   <programme start="20260118155000 +0000" stop="20260118180500 +0000" channel="fx-movie-channel">
-    <title>Movie</title>
+    <title>The King and I</title>
     <sub-title>The King and I</sub-title>
     <desc>A young Victorian widow (Deborah Kerr) goes to Siam to teach the king's (Yul Brynner) children. Music by Rodgers and Hammerstein.</desc>
   </programme>
   <programme start="20260118180500 +0000" stop="20260118200000 +0000" channel="fx-movie-channel">
-    <title>Movie</title>
+    <title>Working Girl</title>
     <sub-title>Working Girl</sub-title>
     <desc>A spunky Wall Street secretary (Melanie Griffith) takes her boss's (Sigourney Weaver) place with a merger specialist (Harrison Ford).</desc>
   </programme>
   <programme start="20260118200000 +0000" stop="20260118222000 +0000" channel="fx-movie-channel">
-    <title>Movie</title>
+    <title>Die Hard</title>
     <sub-title>Die Hard</sub-title>
     <desc>A scrappy New York policeman outwits foreign thugs holding his wife and others in a Los Angeles high-rise.</desc>
   </programme>
   <programme start="20260118222000 +0000" stop="20260119004000 +0000" channel="fx-movie-channel">
-    <title>Movie</title>
+    <title>Die Hard 2</title>
     <sub-title>Die Hard 2</sub-title>
     <desc>The sequel's police hero (Bruce Willis) spots military terrorists while waiting for his wife (Bonnie Bedelia) at a Washington, D.C., airport.</desc>
   </programme>
   <programme start="20260119004000 +0000" stop="20260119032000 +0000" channel="fx-movie-channel">
-    <title>Movie</title>
+    <title>Die Hard With a Vengeance</title>
     <sub-title>Die Hard With a Vengeance</sub-title>
     <desc>Suspended from the police force, John McClane (Bruce Willis) enlists a Harlem shopkeeper (Samuel L. Jackson) to help stop a terrorist bomber (Jeremy Irons).</desc>
   </programme>
   <programme start="20260119032000 +0000" stop="20260119060500 +0000" channel="fx-movie-channel">
-    <title>Movie</title>
+    <title>Live Free or Die Hard</title>
     <sub-title>Live Free or Die Hard</sub-title>
     <desc>John McClane (Bruce Willis) grapples with a villain who plans to shut down the United States by attacking the country's vulnerable computer infrastructure.</desc>
   </programme>
   <programme start="20260119060500 +0000" stop="20260119085500 +0000" channel="fx-movie-channel">
-    <title>Movie</title>
+    <title>Fight Club</title>
     <sub-title>Fight Club</sub-title>
     <desc>Two young professionals (Brad Pitt, Edward Norton) create an underground club where men can compete in hand-to-hand combat.</desc>
   </programme>
   <programme start="20260119085500 +0000" stop="20260119110000 +0000" channel="fx-movie-channel">
-    <title>Movie</title>
+    <title>The Kremlin Letter</title>
     <sub-title>The Kremlin Letter</sub-title>
     <desc>American spies in Moscow to recover a stolen anti-Red China letter discover a traitor in their midst.</desc>
   </programme>
   <programme start="20260119110000 +0000" stop="20260119122000 +0000" channel="fx-movie-channel">
-    <title>Movie</title>
+    <title>Curly Top</title>
     <sub-title>Curly Top</sub-title>
     <desc>A Park Avenue millionaire (John Boles) adopts a frisky orphan (Shirley Temple) and her teenage sister (Rochelle Hudson).</desc>
   </programme>
   <programme start="20260119122000 +0000" stop="20260119140500 +0000" channel="fx-movie-channel">
-    <title>Movie</title>
+    <title>The Gang's All Here</title>
     <sub-title>The Gang's All Here</sub-title>
     <desc>Busby Berkeley's musical of a GI (James Ellison) and a chorus girl (Alice Faye) has Benny Goodman, big bananas and</desc>
   </programme>
   <programme start="20260119140500 +0000" stop="20260119154000 +0000" channel="fx-movie-channel">
-    <title>Movie</title>
+    <title>Gentlemen Prefer Blondes</title>
     <sub-title>Gentlemen Prefer Blondes</sub-title>
     <desc>Two showgirls on the lookout for rich eligible bachelors run into numerous complications during a trip to Paris.</desc>
   </programme>
@@ -9449,27 +9449,27 @@
     <display-name>FX Networks East Coast</display-name>
   </channel>
   <programme start="20260118180000 +0000" stop="20260118203000 +0000" channel="fx-networks-east-coast">
-    <title>Movie</title>
+    <title>Doctor Strange</title>
     <sub-title>Doctor Strange</sub-title>
     <desc>After a terrible accident, Dr. Stephen Strange (Benedict Cumberbatch) loses his ability to operate but finds new purpose when a mystical being known as the Ancient One reveals that Dr. Strange is the newly designated Sorcerer Supreme.</desc>
   </programme>
   <programme start="20260118203000 +0000" stop="20260118233000 +0000" channel="fx-networks-east-coast">
-    <title>Movie</title>
+    <title>Thor: Ragnarok</title>
     <sub-title>Thor: Ragnarok</sub-title>
     <desc>Thor must battle the Hulk in a deadly gladiatorial contest and prevent the all-powerful Hela from destroying his home world and the Asgardian civilization.</desc>
   </programme>
   <programme start="20260118233000 +0000" stop="20260119020000 +0000" channel="fx-networks-east-coast">
-    <title>Movie</title>
+    <title>Ant-Man and The Wasp</title>
     <sub-title>Ant-Man and The Wasp</sub-title>
     <desc>Approached by Hope van Dyne and Dr. Hank Pym, Scott Lang once again dons the Ant-Man suit to fight alongside the Wasp. The mission soon leads to secret revelations from the past as the duo finds itself in a battle against a powerful enemy.</desc>
   </programme>
   <programme start="20260119020000 +0000" stop="20260119053000 +0000" channel="fx-networks-east-coast">
-    <title>Movie</title>
+    <title>Avengers: Infinity War</title>
     <sub-title>Avengers: Infinity War</sub-title>
     <desc>Iron Man, Thor, the Hulk and the rest of the Avengers unite to battle the evil Thanos -- an intergalactic despot who plans to use all six Infinity Stones to inflict his twisted will on reality.</desc>
   </programme>
   <programme start="20260119053000 +0000" stop="20260119080000 +0000" channel="fx-networks-east-coast">
-    <title>Movie</title>
+    <title>X-Men</title>
     <sub-title>X-Men</sub-title>
     <desc>Professor Xavier (Patrick Stewart) leads Wolverine (Hugh Jackman) and other superheroes against Magneto (Ian McKellen), a mutant who would rule humanity.</desc>
   </programme>
@@ -9506,12 +9506,12 @@
     <desc>Join your hosts Kevin Cash &amp; Cory Cade as we discuss the 250th Anniversary of America with the official</desc>
   </programme>
   <programme start="20260119120000 +0000" stop="20260119150000 +0000" channel="fx-networks-east-coast">
-    <title>Movie</title>
+    <title>Little Women</title>
     <sub-title>Little Women</sub-title>
     <desc>In the years after the Civil War, Jo March and her two sisters return home when shy sister Beth develops an illness that forever changes all of their lives.</desc>
   </programme>
   <programme start="20260119150000 +0000" stop="20260119170000 +0000" channel="fx-networks-east-coast">
-    <title>Movie</title>
+    <title>Anyone But You</title>
     <sub-title>Anyone But You</sub-title>
     <desc>Despite an amazing first date, Bea and Ben's initial attraction quickly turns sour. However, when they unexpectedly find themselves at a destination wedding in Australia, they pretend to be the perfect couple to keep up appearances.</desc>
   </programme>
@@ -9718,12 +9718,12 @@
     <desc>Regain independence and enjoy greater mobility with the compact design and long-lasting battery of portable oxygen.</desc>
   </programme>
   <programme start="20260119120000 +0000" stop="20260119140000 +0000" channel="fxx-usa-eastern">
-    <title>Movie</title>
+    <title>Spies in Disguise</title>
     <sub-title>Spies in Disguise</sub-title>
     <desc>Lance is a super cool and charming spy, and Walter invents the super cool gadgets that Lance uses. But when events take an unexpected turn, Walter and Lance suddenly have to rely on each other in a whole new way.</desc>
   </programme>
   <programme start="20260119140000 +0000" stop="20260119160000 +0000" channel="fxx-usa-eastern">
-    <title>Movie</title>
+    <title>Hotel Transylvania</title>
     <sub-title>Hotel Transylvania</sub-title>
     <desc>An unforeseen complication unfolds when Dracula (Adam Sandler) invites the world's most-infamous monsters to his lavish resort to celebrate his daughter's 118th birthday.</desc>
   </programme>
@@ -10199,22 +10199,22 @@
     <display-name>Hallmark Eastern Feed</display-name>
   </channel>
   <programme start="20260118170000 +0000" stop="20260118190000 +0000" channel="hallmark-eastern-feed">
-    <title>Movie</title>
+    <title>Right in Front of Me</title>
     <sub-title>Right in Front of Me</sub-title>
     <desc>A woman gets a second chance at romance with her college crush but isn't sure how to impress him until her new male friend gives her advice.</desc>
   </programme>
   <programme start="20260118190000 +0000" stop="20260118210000 +0000" channel="hallmark-eastern-feed">
-    <title>Movie</title>
+    <title>The 27-Hour Day</title>
     <sub-title>The 27-Hour Day</sub-title>
     <desc>Taking a break from her wellness empire, an entrepreneur develops a budding romance with a handsome man at a relaxing retreat.</desc>
   </programme>
   <programme start="20260118210000 +0000" stop="20260118230000 +0000" channel="hallmark-eastern-feed">
-    <title>Movie</title>
+    <title>Marry Go Round</title>
     <sub-title>Marry Go Round</sub-title>
     <desc>Abby is a successful executive who's moving to Paris and planning to marry Edward. Life is perfect until she learns her divorce to her high school sweetheart, Luke, is not exactly official.</desc>
   </programme>
   <programme start="20260118230000 +0000" stop="20260119010000 +0000" channel="hallmark-eastern-feed">
-    <title>Movie</title>
+    <title>Love on the Amazon</title>
     <sub-title>Love on the Amazon</sub-title>
     <desc>Claire travels to Brazil and hires Danny, a riverboat captain, to help her deliver an important message for her sister Amelia, a marine biologist studying pink dolphins on the Amazon River.</desc>
   </programme>
@@ -10224,12 +10224,12 @@
     <desc>Elizabeth welcomes new students as Nathan and Bill investigate wildfire.</desc>
   </programme>
   <programme start="20260119020000 +0000" stop="20260119040000 +0000" channel="hallmark-eastern-feed">
-    <title>Movie</title>
+    <title>Winter Love Story</title>
     <sub-title>Winter Love Story</sub-title>
     <desc>When author Cassie's first novel isn't selling, she is paired on a book tour with author Elliot to boost her sales, but along the way, a romance starts to blossom.</desc>
   </programme>
   <programme start="20260119040000 +0000" stop="20260119060000 +0000" channel="hallmark-eastern-feed">
-    <title>Movie</title>
+    <title>Adventures in Love &amp; Birding</title>
     <sub-title>Adventures in Love &amp; Birding</sub-title>
     <desc>A single mom agrees to be the partner of a bird enthusiast for a birding competition but misunderstands the assignment and tells everyone she's his new girlfriend instead of just his teammate.</desc>
   </programme>
@@ -10304,12 +10304,12 @@
     <desc>Embarrassed Brock believes the only way he can pay off his back taxes is to sell his house and move to Las Vegas.</desc>
   </programme>
   <programme start="20260119130000 +0000" stop="20260119150000 +0000" channel="hallmark-eastern-feed">
-    <title>Movie</title>
+    <title>A Winter Princess</title>
     <sub-title>A Winter Princess</sub-title>
     <desc>Princess Carly, working incognito at a ski resort, must team up with the owner's brother, Brent, to plan the resort's 50th-anniversary celebration.</desc>
   </programme>
   <programme start="20260119150000 +0000" stop="20260119170000 +0000" channel="hallmark-eastern-feed">
-    <title>Movie</title>
+    <title>Love in Paradise</title>
     <sub-title>Love in Paradise</sub-title>
     <desc>When an actor (Luke Perry) who makes Westerns visits a Montana dude ranch, a woman (Emmanuelle Vaugier) realizes that he's actually a city slicker who knows nothing about being a cowboy.</desc>
   </programme>
@@ -10317,27 +10317,27 @@
     <display-name>Hallmark Family HD</display-name>
   </channel>
   <programme start="20260118170000 +0000" stop="20260118190000 +0000" channel="hallmark-family-hd">
-    <title>Movie</title>
+    <title>Follow Your Heart</title>
     <sub-title>Follow Your Heart</sub-title>
     <desc>Kathy Yoder is a travel writer who has left her Amish ways behind, but when she returns home to settle her father's affairs, she is tempted to return to her former lifestyle.</desc>
   </programme>
   <programme start="20260118190000 +0000" stop="20260118210000 +0000" channel="hallmark-family-hd">
-    <title>Movie</title>
+    <title>Signed, Sealed, Delivered: A Tale of Three Letters</title>
     <sub-title>Signed, Sealed, Delivered: A Tale of Three Letters</sub-title>
     <desc>The Postables try to identify the intended recipients of a trio of dead letters which have a surprising, personal impact on all of them.</desc>
   </programme>
   <programme start="20260118210000 +0000" stop="20260118230000 +0000" channel="hallmark-family-hd">
-    <title>Movie</title>
+    <title>Finding Love in Mountain View</title>
     <sub-title>Finding Love in Mountain View</sub-title>
     <desc>After finding out she has been entrusted to take care of her deceased cousin's children, an architect is torn between her career and her cousin's wish.</desc>
   </programme>
   <programme start="20260118230000 +0000" stop="20260119010000 +0000" channel="hallmark-family-hd">
-    <title>Movie</title>
+    <title>Journey of My Heart</title>
     <sub-title>Journey of My Heart</sub-title>
     <desc>A young wildlife biologist travels to a remote Alaskan nesting area for bald eagles. She soon receives inspirational guidance from a Native American family and help from a mysterious wilderness guide.</desc>
   </programme>
   <programme start="20260119010000 +0000" stop="20260119030000 +0000" channel="hallmark-family-hd">
-    <title>Movie</title>
+    <title>Love and Sunshine</title>
     <sub-title>Love and Sunshine</sub-title>
     <desc>A woman has been fostering a retired military dog as she recovers from a broken engagement. But sparks fly again when the pup's military partner returns to claim the dog.</desc>
   </programme>
@@ -10402,7 +10402,7 @@
     <desc>Amy and Ty try desperately to save the wild horses; Lou and Peter join forces to fight the charges; Georgie's future at Heartland is threatened.</desc>
   </programme>
   <programme start="20260119150000 +0000" stop="20260119170000 +0000" channel="hallmark-family-hd">
-    <title>Movie</title>
+    <title>So You Said Yes</title>
     <sub-title>So You Said Yes</sub-title>
     <desc>The owner (Kellie Martin) of a bridal shop falls in love with the son of her chief competitor, then must fend off the woman's attempts to sabotage the relationship.</desc>
   </programme>
@@ -10425,12 +10425,12 @@
     <desc>Young Aurora Teagarden returns home to Lawrenceton to pursue her post-graduate degree but soon finds herself embroiled in a mystery involving her friend's fiance.</desc>
   </programme>
   <programme start="20260118230000 +0000" stop="20260119010000 +0000" channel="hallmark-mystery-eastern-hd">
-    <title>Movie</title>
+    <title>Aurora Teagarden Mysteries: A Lesson in Murder</title>
     <sub-title>Aurora Teagarden Mysteries: A Lesson in Murder</sub-title>
     <desc>When a student from Aurora's true crime literature class is found murdered outside the diner where she works, Aurora takes it upon herself to figure out the real culprit.</desc>
   </programme>
   <programme start="20260119010000 +0000" stop="20260119030000 +0000" channel="hallmark-mystery-eastern-hd">
-    <title>Movie</title>
+    <title>Aurora Teagarden Mysteries: Death at the Diner</title>
     <sub-title>Aurora Teagarden Mysteries: Death at the Diner</sub-title>
     <desc>When the owner of the diner where Aurora Teagarden works is suddenly killed, her new boyfriend becomes the primary suspect.</desc>
   </programme>
@@ -10512,17 +10512,17 @@
     <desc>While Harper makes a bold move as head of her own fund, Whitney Halberstram works to ensure the successful evolution of Tender.</desc>
   </programme>
   <programme start="20260118185000 +0000" stop="20260118203500 +0000" channel="hbo-eastern-feed">
-    <title>Movie</title>
+    <title>John Wick</title>
     <sub-title>John Wick</sub-title>
     <desc>New York City becomes the bullet-riddled playground of a former assassin (Keanu Reeves) as he hunts down the Russian mobsters who destroyed everything he held dear.</desc>
   </programme>
   <programme start="20260118203500 +0000" stop="20260118224000 +0000" channel="hbo-eastern-feed">
-    <title>Movie</title>
+    <title>John Wick: Chapter 2</title>
     <sub-title>John Wick: Chapter 2</sub-title>
     <desc>Legendary hit man John Wick comes out of retirement when a former associate plots to seize control of an international assassins' guild. Bound by a blood oath to help him, Wick travels to Rome to square off against the world's deadliest killers.</desc>
   </programme>
   <programme start="20260118224000 +0000" stop="20260119005300 +0000" channel="hbo-eastern-feed">
-    <title>Movie</title>
+    <title>John Wick: Chapter 3 -- Parabellum</title>
     <sub-title>John Wick: Chapter 3 -- Parabellum</sub-title>
     <desc>Stripped of the High Table's protective services, legendary hit man John Wick must fight his way through the streets of New York as the world's most ruthless killers try to collect the $14 million bounty on his head.</desc>
   </programme>
@@ -10572,12 +10572,12 @@
     <desc>Yasmin struggles to engage Henry's drive, but an unexpected visitor forces him to make a choice; Harper has a revelation about both an old and a new friend.</desc>
   </programme>
   <programme start="20260119091000 +0000" stop="20260119112900 +0000" channel="hbo-eastern-feed">
-    <title>Movie</title>
+    <title>The Fate of the Furious</title>
     <sub-title>The Fate of the Furious</sub-title>
     <desc>Members of the globe-trotting crew face an unexpected challenge when a mysterious woman named Cipher forces Dom to betray them all. Now, they must unite to bring home the man who made them a family and stop her from unleashing chaos.</desc>
   </programme>
   <programme start="20260119091000 +0000" stop="20260119112900 +0000" channel="hbo-eastern-feed">
-    <title>Movie</title>
+    <title>The Fate of the Furious</title>
     <sub-title>The Fate of the Furious</sub-title>
     <desc>Members of the globe-trotting crew face an unexpected challenge when a mysterious woman named Cipher forces Dom to betray them all. Now, they must unite to bring home the man who made them a family and stop her from unleashing chaos.</desc>
   </programme>
@@ -10587,12 +10587,12 @@
     <desc>A century before the events of</desc>
   </programme>
   <programme start="20260119121300 +0000" stop="20260119134900 +0000" channel="hbo-eastern-feed">
-    <title>Movie</title>
+    <title>The Legend of Ochi</title>
     <sub-title>The Legend of Ochi</sub-title>
     <desc>In a remote village on the island of Carpathia, a shy farm girl named Yuri is raised to fear elusive animals known as ochi. But when Yuri discovers a wounded baby ochi has been left behind, she escapes on a quest to bring him home.</desc>
   </programme>
   <programme start="20260119134900 +0000" stop="20260119153100 +0000" channel="hbo-eastern-feed">
-    <title>Movie</title>
+    <title>Mechanic: Resurrection</title>
     <sub-title>Mechanic: Resurrection</sub-title>
     <desc>Bishop's most formidable foe kidnaps the love of his life in order to make him complete three impossible assassinations and make them look like accidents.</desc>
   </programme>
@@ -10600,47 +10600,47 @@
     <display-name>HBO 2 Eastern Feed</display-name>
   </channel>
   <programme start="20260118165300 +0000" stop="20260118190500 +0000" channel="hbo-2-eastern-feed">
-    <title>Movie</title>
+    <title>X-Men: First Class</title>
     <sub-title>X-Men: First Class</sub-title>
     <desc>Charles Xavier and Erik Lehnsherr work with other mutants to prevent a nuclear nightmare, but a situation soon tears the close friends apart.</desc>
   </programme>
   <programme start="20260118165300 +0000" stop="20260118190500 +0000" channel="hbo-2-eastern-feed">
-    <title>Movie</title>
+    <title>X-Men: First Class</title>
     <sub-title>X-Men: First Class</sub-title>
     <desc>Charles Xavier and Erik Lehnsherr work with other mutants to prevent a nuclear nightmare, but a situation soon tears the close friends apart.</desc>
   </programme>
   <programme start="20260118165300 +0000" stop="20260118190500 +0000" channel="hbo-2-eastern-feed">
-    <title>Movie</title>
+    <title>X-Men: First Class</title>
     <sub-title>X-Men: First Class</sub-title>
     <desc>Charles Xavier and Erik Lehnsherr work with other mutants to prevent a nuclear nightmare, but a situation soon tears the close friends apart.</desc>
   </programme>
   <programme start="20260118190500 +0000" stop="20260118211000 +0000" channel="hbo-2-eastern-feed">
-    <title>Movie</title>
+    <title>Black Adam</title>
     <sub-title>Black Adam</sub-title>
     <desc>Bestowed with the almighty powers of the gods, Black Adam's unique form of justice, born out of rage, is challenged by modern-day heroes who form the Justice Society: Hawkman, Dr. Fate, Atom Smasher and Cyclone.</desc>
   </programme>
   <programme start="20260118190500 +0000" stop="20260118211000 +0000" channel="hbo-2-eastern-feed">
-    <title>Movie</title>
+    <title>Black Adam</title>
     <sub-title>Black Adam</sub-title>
     <desc>Bestowed with the almighty powers of the gods, Black Adam's unique form of justice, born out of rage, is challenged by modern-day heroes who form the Justice Society: Hawkman, Dr. Fate, Atom Smasher and Cyclone.</desc>
   </programme>
   <programme start="20260118190500 +0000" stop="20260118211000 +0000" channel="hbo-2-eastern-feed">
-    <title>Movie</title>
+    <title>Black Adam</title>
     <sub-title>Black Adam</sub-title>
     <desc>Bestowed with the almighty powers of the gods, Black Adam's unique form of justice, born out of rage, is challenged by modern-day heroes who form the Justice Society: Hawkman, Dr. Fate, Atom Smasher and Cyclone.</desc>
   </programme>
   <programme start="20260118211000 +0000" stop="20260118232000 +0000" channel="hbo-2-eastern-feed">
-    <title>Movie</title>
+    <title>Superman</title>
     <sub-title>Superman</sub-title>
     <desc>Tech billionaire Lex Luthor seizes the opportunity to get the Man of Steel out of the way for good. Will intrepid reporter Lois Lane and Superman's four-legged companion, Krypto, be able to help him before it's too late?</desc>
   </programme>
   <programme start="20260118211000 +0000" stop="20260118232000 +0000" channel="hbo-2-eastern-feed">
-    <title>Movie</title>
+    <title>Superman</title>
     <sub-title>Superman</sub-title>
     <desc>Tech billionaire Lex Luthor seizes the opportunity to get the Man of Steel out of the way for good. Will intrepid reporter Lois Lane and Superman's four-legged companion, Krypto, be able to help him before it's too late?</desc>
   </programme>
   <programme start="20260118211000 +0000" stop="20260118232000 +0000" channel="hbo-2-eastern-feed">
-    <title>Movie</title>
+    <title>Superman</title>
     <sub-title>Superman</sub-title>
     <desc>Tech billionaire Lex Luthor seizes the opportunity to get the Man of Steel out of the way for good. Will intrepid reporter Lois Lane and Superman's four-legged companion, Krypto, be able to help him before it's too late?</desc>
   </programme>
@@ -10660,77 +10660,77 @@
     <desc>While Harper makes a bold move as head of her own fund, Whitney Halberstram works to ensure the successful evolution of Tender.</desc>
   </programme>
   <programme start="20260119002300 +0000" stop="20260119020500 +0000" channel="hbo-2-eastern-feed">
-    <title>Movie</title>
+    <title>The Switch</title>
     <sub-title>The Switch</sub-title>
     <desc>A woman (Jennifer Aniston) inseminates herself without knowing that her best friend (Jason Bateman) substituted her preferred sperm sample for his own.</desc>
   </programme>
   <programme start="20260119002300 +0000" stop="20260119020500 +0000" channel="hbo-2-eastern-feed">
-    <title>Movie</title>
+    <title>The Switch</title>
     <sub-title>The Switch</sub-title>
     <desc>A woman (Jennifer Aniston) inseminates herself without knowing that her best friend (Jason Bateman) substituted her preferred sperm sample for his own.</desc>
   </programme>
   <programme start="20260119002300 +0000" stop="20260119020500 +0000" channel="hbo-2-eastern-feed">
-    <title>Movie</title>
+    <title>The Switch</title>
     <sub-title>The Switch</sub-title>
     <desc>A woman (Jennifer Aniston) inseminates herself without knowing that her best friend (Jason Bateman) substituted her preferred sperm sample for his own.</desc>
   </programme>
   <programme start="20260119020500 +0000" stop="20260119040400 +0000" channel="hbo-2-eastern-feed">
-    <title>Movie</title>
+    <title>Wedding Crashers</title>
     <sub-title>Wedding Crashers</sub-title>
     <desc>Two divorce mediators spend a wild weekend partying with a politician and his eccentric family.</desc>
   </programme>
   <programme start="20260119020500 +0000" stop="20260119040400 +0000" channel="hbo-2-eastern-feed">
-    <title>Movie</title>
+    <title>Wedding Crashers</title>
     <sub-title>Wedding Crashers</sub-title>
     <desc>Two divorce mediators spend a wild weekend partying with a politician and his eccentric family.</desc>
   </programme>
   <programme start="20260119020500 +0000" stop="20260119040400 +0000" channel="hbo-2-eastern-feed">
-    <title>Movie</title>
+    <title>Wedding Crashers</title>
     <sub-title>Wedding Crashers</sub-title>
     <desc>Two divorce mediators spend a wild weekend partying with a politician and his eccentric family.</desc>
   </programme>
   <programme start="20260119040400 +0000" stop="20260119052800 +0000" channel="hbo-2-eastern-feed">
-    <title>Movie</title>
+    <title>Adult Best Friends</title>
     <sub-title>Adult Best Friends</sub-title>
     <desc>Katie takes her best friend on a nostalgic trip to their hometown to tell her she's getting married. Their journey soon takes some unexpected turns courtesy of a bizarre rental homeowner, a bachelor party, and a few potential love interests.</desc>
   </programme>
   <programme start="20260119040400 +0000" stop="20260119052800 +0000" channel="hbo-2-eastern-feed">
-    <title>Movie</title>
+    <title>Adult Best Friends</title>
     <sub-title>Adult Best Friends</sub-title>
     <desc>Katie takes her best friend on a nostalgic trip to their hometown to tell her she's getting married. Their journey soon takes some unexpected turns courtesy of a bizarre rental homeowner, a bachelor party, and a few potential love interests.</desc>
   </programme>
   <programme start="20260119040400 +0000" stop="20260119052800 +0000" channel="hbo-2-eastern-feed">
-    <title>Movie</title>
+    <title>Adult Best Friends</title>
     <sub-title>Adult Best Friends</sub-title>
     <desc>Katie takes her best friend on a nostalgic trip to their hometown to tell her she's getting married. Their journey soon takes some unexpected turns courtesy of a bizarre rental homeowner, a bachelor party, and a few potential love interests.</desc>
   </programme>
   <programme start="20260119052800 +0000" stop="20260119065700 +0000" channel="hbo-2-eastern-feed">
-    <title>Movie</title>
+    <title>The House</title>
     <sub-title>The House</sub-title>
     <desc>Desperate for money, a couple and their neighbor start an underground casino in their quiet suburban neighborhood. As the money rolls in and the good times fly, they soon learn that they may have bitten off more than they can chew.</desc>
   </programme>
   <programme start="20260119052800 +0000" stop="20260119065700 +0000" channel="hbo-2-eastern-feed">
-    <title>Movie</title>
+    <title>The House</title>
     <sub-title>The House</sub-title>
     <desc>Desperate for money, a couple and their neighbor start an underground casino in their quiet suburban neighborhood. As the money rolls in and the good times fly, they soon learn that they may have bitten off more than they can chew.</desc>
   </programme>
   <programme start="20260119052800 +0000" stop="20260119065700 +0000" channel="hbo-2-eastern-feed">
-    <title>Movie</title>
+    <title>The House</title>
     <sub-title>The House</sub-title>
     <desc>Desperate for money, a couple and their neighbor start an underground casino in their quiet suburban neighborhood. As the money rolls in and the good times fly, they soon learn that they may have bitten off more than they can chew.</desc>
   </programme>
   <programme start="20260119065700 +0000" stop="20260119091700 +0000" channel="hbo-2-eastern-feed">
-    <title>Movie</title>
+    <title>All Eyez on Me</title>
     <sub-title>All Eyez on Me</sub-title>
     <desc>The true and untold story of prolific rapper, actor, poet and activist Tupac Shakur (Demetrius Shipp Jr.), from his early days in New York to his status as one of the world's most recognized and influential voices.</desc>
   </programme>
   <programme start="20260119065700 +0000" stop="20260119091700 +0000" channel="hbo-2-eastern-feed">
-    <title>Movie</title>
+    <title>All Eyez on Me</title>
     <sub-title>All Eyez on Me</sub-title>
     <desc>The true and untold story of prolific rapper, actor, poet and activist Tupac Shakur (Demetrius Shipp Jr.), from his early days in New York to his status as one of the world's most recognized and influential voices.</desc>
   </programme>
   <programme start="20260119065700 +0000" stop="20260119091700 +0000" channel="hbo-2-eastern-feed">
-    <title>Movie</title>
+    <title>All Eyez on Me</title>
     <sub-title>All Eyez on Me</sub-title>
     <desc>The true and untold story of prolific rapper, actor, poet and activist Tupac Shakur (Demetrius Shipp Jr.), from his early days in New York to his status as one of the world's most recognized and influential voices.</desc>
   </programme>
@@ -10750,17 +10750,17 @@
     <desc>Yasmin struggles to engage Henry's drive, but an unexpected visitor forces him to make a choice; Harper has a revelation about both an old and a new friend.</desc>
   </programme>
   <programme start="20260119102000 +0000" stop="20260119115400 +0000" channel="hbo-2-eastern-feed">
-    <title>Movie</title>
+    <title>Y2K</title>
     <sub-title>Y2K</sub-title>
     <desc>On the last night of 1999, two high school juniors crash a New Year's Eve party, only to find themselves fighting for their lives when the terror of Y2K becomes a reality and all machines rise up against humanity.</desc>
   </programme>
   <programme start="20260119102000 +0000" stop="20260119115400 +0000" channel="hbo-2-eastern-feed">
-    <title>Movie</title>
+    <title>Y2K</title>
     <sub-title>Y2K</sub-title>
     <desc>On the last night of 1999, two high school juniors crash a New Year's Eve party, only to find themselves fighting for their lives when the terror of Y2K becomes a reality and all machines rise up against humanity.</desc>
   </programme>
   <programme start="20260119102000 +0000" stop="20260119115400 +0000" channel="hbo-2-eastern-feed">
-    <title>Movie</title>
+    <title>Y2K</title>
     <sub-title>Y2K</sub-title>
     <desc>On the last night of 1999, two high school juniors crash a New Year's Eve party, only to find themselves fighting for their lives when the terror of Y2K becomes a reality and all machines rise up against humanity.</desc>
   </programme>
@@ -10768,7 +10768,7 @@
     <display-name>HBO Comedy HD East</display-name>
   </channel>
   <programme start="20260118162600 +0000" stop="20260118181300 +0000" channel="hbo-comedy-hd-east">
-    <title>Movie</title>
+    <title>Lyle, Lyle, Crocodile</title>
     <sub-title>Lyle, Lyle, Crocodile</sub-title>
     <desc>When the Primm family moves to New York City, their young son, Josh, struggles to adapt to his new school and new friends. All of that changes when he discovers Lyle, a singing crocodile that loves baths, caviar and great music.</desc>
   </programme>
@@ -10777,7 +10777,7 @@
     <desc>The comic performs at South Africa's Carnival City Casino, the Apollo Theatre in New York and the Carling Apollo Hammersmith in London.</desc>
   </programme>
   <programme start="20260118193300 +0000" stop="20260118205400 +0000" channel="hbo-comedy-hd-east">
-    <title>Movie</title>
+    <title>Hello Ladies: The Movie</title>
     <sub-title>Hello Ladies: The Movie</sub-title>
     <desc>To impress his ex and her husband, Stuart Pritchard (Stephen Merchant) enlists a Russian model to pose as his girlfriend.</desc>
   </programme>
@@ -10790,57 +10790,57 @@
     <desc>Sarah Sherman's unholy alter ego, Sarah Squirm, unleashes a festering hour of bodily fluids, open-wound confessionals and jokes that will leave scars on the soul.</desc>
   </programme>
   <programme start="20260118230100 +0000" stop="20260119010200 +0000" channel="hbo-comedy-hd-east">
-    <title>Movie</title>
+    <title>Taking Woodstock</title>
     <sub-title>Taking Woodstock</sub-title>
     <desc>Elliot Tiber plays a pivotal role in the generation-defining concert by helping to secure Max Yasgur's farm as a venue and offering his parents' motel as a base for organizers.</desc>
   </programme>
   <programme start="20260119010200 +0000" stop="20260119022500 +0000" channel="hbo-comedy-hd-east">
-    <title>Movie</title>
+    <title>This Is Spinal Tap</title>
     <sub-title>This Is Spinal Tap</sub-title>
     <desc>An American filmmaker (Rob Reiner) records the demise of a fictitious band of aging British metalheads (Michael McKean, Christopher Guest) in a mock rockumentary.</desc>
   </programme>
   <programme start="20260119022500 +0000" stop="20260119035300 +0000" channel="hbo-comedy-hd-east">
-    <title>Movie</title>
+    <title>Ice Age: Continental Drift</title>
     <sub-title>Ice Age: Continental Drift</sub-title>
     <desc>Scrat's pursuit of an infernal acorn has world-changing consequences for Manny (Ray Romano), Diego (Denis Leary) and Sid (John Leguizamo).</desc>
   </programme>
   <programme start="20260119035300 +0000" stop="20260119053900 +0000" channel="hbo-comedy-hd-east">
-    <title>Movie</title>
+    <title>The LEGO Batman Movie</title>
     <sub-title>The LEGO Batman Movie</sub-title>
     <desc>There are big changes brewing in Gotham, but if Batman (Will Arnett) wants to save the city from the Joker's hostile takeover, he may have to drop the lone vigilante thing, try to work with others and maybe, just maybe, learn to lighten up.</desc>
   </programme>
   <programme start="20260119053900 +0000" stop="20260119074000 +0000" channel="hbo-comedy-hd-east">
-    <title>Movie</title>
+    <title>It's Complicated</title>
     <sub-title>It's Complicated</sub-title>
     <desc>A restaurateur (Meryl Streep) falls into an affair with her remarried ex-husband (Alec Baldwin), while an architect (Steve Martin) that she hired to refurbish her kitchen falls in love with her.</desc>
   </programme>
   <programme start="20260119074000 +0000" stop="20260119093500 +0000" channel="hbo-comedy-hd-east">
-    <title>Movie</title>
+    <title>The Descendants</title>
     <sub-title>The Descendants</sub-title>
     <desc>A man (George Clooney) simultaneously struggles with the decision to pull the plug on his comatose wife while facing pressure from relatives to sell 25,000 acres of unspoiled Hawaiian land.</desc>
   </programme>
   <programme start="20260119093500 +0000" stop="20260119110500 +0000" channel="hbo-comedy-hd-east">
-    <title>Movie</title>
+    <title>Table 19</title>
     <sub-title>Table 19</sub-title>
     <desc>Dumped by the best man (Wyatt Russell), an ex-maid of honor (Anna Kendrick) must sit with a group of strangers (Craig Robinson, Lisa Kudrow) during her friend's wedding reception.</desc>
   </programme>
   <programme start="20260119093500 +0000" stop="20260119110500 +0000" channel="hbo-comedy-hd-east">
-    <title>Movie</title>
+    <title>Table 19</title>
     <sub-title>Table 19</sub-title>
     <desc>Dumped by the best man (Wyatt Russell), an ex-maid of honor (Anna Kendrick) must sit with a group of strangers (Craig Robinson, Lisa Kudrow) during her friend's wedding reception.</desc>
   </programme>
   <programme start="20260119110500 +0000" stop="20260119122600 +0000" channel="hbo-comedy-hd-east">
-    <title>Movie</title>
+    <title>Yogi Bear</title>
     <sub-title>Yogi Bear</sub-title>
     <desc>Yogi (Dan Aykroyd), Boo Boo (Justin Timberlake), and Ranger Smith (Tom Cavanagh) team up to stop the mayor from closing Jellystone Park and selling it to loggers.</desc>
   </programme>
   <programme start="20260119122600 +0000" stop="20260119135700 +0000" channel="hbo-comedy-hd-east">
-    <title>Movie</title>
+    <title>Norm of the North</title>
     <sub-title>Norm of the North</sub-title>
     <desc>A polar bear (Rob Schneider) and three mischievous lemmings travel to New York to stop a shady developer (Ken Jeong) from building luxury condos in the Arctic.</desc>
   </programme>
   <programme start="20260119135700 +0000" stop="20260119152900 +0000" channel="hbo-comedy-hd-east">
-    <title>Movie</title>
+    <title>Diary of a Wimpy Kid: The Long Haul</title>
     <sub-title>Diary of a Wimpy Kid: The Long Haul</sub-title>
     <desc>Young Greg Heffley must accompany the rest of his family on a road trip for a relative's birthday celebration. His imagination soon kicks into overdrive as he sneakily hatches a scheme to meet YouTube sensation Mac Digby at a gaming convention.</desc>
   </programme>
@@ -11025,77 +11025,77 @@
     <desc>As Aemond becomes more volatile, Larys plots an escape and Alicent grows more concerned about Helaena's safety; flush with new power, Rhaenyra looks to press her advantage.</desc>
   </programme>
   <programme start="20260119015200 +0000" stop="20260119033100 +0000" channel="hbo-signature-hbo-3-eastern">
-    <title>Movie</title>
+    <title>Fargo</title>
     <sub-title>Fargo</sub-title>
     <desc>A pregnant police chief (Frances McDormand) probes the murderous events that evolved from a desperate car salesman's (William H. Macy) kidnapping scheme.</desc>
   </programme>
   <programme start="20260119015200 +0000" stop="20260119033100 +0000" channel="hbo-signature-hbo-3-eastern">
-    <title>Movie</title>
+    <title>Fargo</title>
     <sub-title>Fargo</sub-title>
     <desc>A pregnant police chief (Frances McDormand) probes the murderous events that evolved from a desperate car salesman's (William H. Macy) kidnapping scheme.</desc>
   </programme>
   <programme start="20260119015200 +0000" stop="20260119033100 +0000" channel="hbo-signature-hbo-3-eastern">
-    <title>Movie</title>
+    <title>Fargo</title>
     <sub-title>Fargo</sub-title>
     <desc>A pregnant police chief (Frances McDormand) probes the murderous events that evolved from a desperate car salesman's (William H. Macy) kidnapping scheme.</desc>
   </programme>
   <programme start="20260119033100 +0000" stop="20260119052200 +0000" channel="hbo-signature-hbo-3-eastern">
-    <title>Movie</title>
+    <title>Moonlight</title>
     <sub-title>Moonlight</sub-title>
     <desc>A look at three defining chapters in the life of Chiron, a young black man growing up in Miami. His epic journey to manhood is guided by the kindness, support and love of the community that helps raise him.</desc>
   </programme>
   <programme start="20260119033100 +0000" stop="20260119052200 +0000" channel="hbo-signature-hbo-3-eastern">
-    <title>Movie</title>
+    <title>Moonlight</title>
     <sub-title>Moonlight</sub-title>
     <desc>A look at three defining chapters in the life of Chiron, a young black man growing up in Miami. His epic journey to manhood is guided by the kindness, support and love of the community that helps raise him.</desc>
   </programme>
   <programme start="20260119033100 +0000" stop="20260119052200 +0000" channel="hbo-signature-hbo-3-eastern">
-    <title>Movie</title>
+    <title>Moonlight</title>
     <sub-title>Moonlight</sub-title>
     <desc>A look at three defining chapters in the life of Chiron, a young black man growing up in Miami. His epic journey to manhood is guided by the kindness, support and love of the community that helps raise him.</desc>
   </programme>
   <programme start="20260119052200 +0000" stop="20260119073500 +0000" channel="hbo-signature-hbo-3-eastern">
-    <title>Movie</title>
+    <title>Call Me by Your Name</title>
     <sub-title>Call Me by Your Name</sub-title>
     <desc>In 1983 Italy, a precocious 17-year-old and a young doctoral student discover the heady beauty of awakening desire over the course of a summer that will alter their lives forever.</desc>
   </programme>
   <programme start="20260119052200 +0000" stop="20260119073500 +0000" channel="hbo-signature-hbo-3-eastern">
-    <title>Movie</title>
+    <title>Call Me by Your Name</title>
     <sub-title>Call Me by Your Name</sub-title>
     <desc>In 1983 Italy, a precocious 17-year-old and a young doctoral student discover the heady beauty of awakening desire over the course of a summer that will alter their lives forever.</desc>
   </programme>
   <programme start="20260119052200 +0000" stop="20260119073500 +0000" channel="hbo-signature-hbo-3-eastern">
-    <title>Movie</title>
+    <title>Call Me by Your Name</title>
     <sub-title>Call Me by Your Name</sub-title>
     <desc>In 1983 Italy, a precocious 17-year-old and a young doctoral student discover the heady beauty of awakening desire over the course of a summer that will alter their lives forever.</desc>
   </programme>
   <programme start="20260119073500 +0000" stop="20260119095600 +0000" channel="hbo-signature-hbo-3-eastern">
-    <title>Movie</title>
+    <title>Kingsman: The Golden Circle</title>
     <sub-title>Kingsman: The Golden Circle</sub-title>
     <desc>With their headquarters destroyed and the world held hostage, members of Kingsman join forces with their American counterparts to battle a ruthless and common enemy.</desc>
   </programme>
   <programme start="20260119073500 +0000" stop="20260119095600 +0000" channel="hbo-signature-hbo-3-eastern">
-    <title>Movie</title>
+    <title>Kingsman: The Golden Circle</title>
     <sub-title>Kingsman: The Golden Circle</sub-title>
     <desc>With their headquarters destroyed and the world held hostage, members of Kingsman join forces with their American counterparts to battle a ruthless and common enemy.</desc>
   </programme>
   <programme start="20260119073500 +0000" stop="20260119095600 +0000" channel="hbo-signature-hbo-3-eastern">
-    <title>Movie</title>
+    <title>Kingsman: The Golden Circle</title>
     <sub-title>Kingsman: The Golden Circle</sub-title>
     <desc>With their headquarters destroyed and the world held hostage, members of Kingsman join forces with their American counterparts to battle a ruthless and common enemy.</desc>
   </programme>
   <programme start="20260119095600 +0000" stop="20260119120100 +0000" channel="hbo-signature-hbo-3-eastern">
-    <title>Movie</title>
+    <title>The Alto Knights</title>
     <sub-title>The Alto Knights</sub-title>
     <desc>In the 1950s, New York crime bosses Frank Costello and Vito Genovese vie for control of the streets. Once the best of friends, petty jealousies and a series of betrayals place them on a deadly collision course that reshapes organized crime forever.</desc>
   </programme>
   <programme start="20260119095600 +0000" stop="20260119120100 +0000" channel="hbo-signature-hbo-3-eastern">
-    <title>Movie</title>
+    <title>The Alto Knights</title>
     <sub-title>The Alto Knights</sub-title>
     <desc>In the 1950s, New York crime bosses Frank Costello and Vito Genovese vie for control of the streets. Once the best of friends, petty jealousies and a series of betrayals place them on a deadly collision course that reshapes organized crime forever.</desc>
   </programme>
   <programme start="20260119095600 +0000" stop="20260119120100 +0000" channel="hbo-signature-hbo-3-eastern">
-    <title>Movie</title>
+    <title>The Alto Knights</title>
     <sub-title>The Alto Knights</sub-title>
     <desc>In the 1950s, New York crime bosses Frank Costello and Vito Genovese vie for control of the streets. Once the best of friends, petty jealousies and a series of betrayals place them on a deadly collision course that reshapes organized crime forever.</desc>
   </programme>
@@ -11103,77 +11103,77 @@
     <display-name>HBO Zone HD East</display-name>
   </channel>
   <programme start="20260118160200 +0000" stop="20260118172900 +0000" channel="hbo-zone-hd-east">
-    <title>Movie</title>
+    <title>Nine Lives</title>
     <sub-title>Nine Lives</sub-title>
     <desc>A workaholic billionaire (Kevin Spacey) tries to communicate with his family when a bizarre turn of events traps him inside the body of a cat named Mr. Fuzzypants.</desc>
   </programme>
   <programme start="20260118172900 +0000" stop="20260118190200 +0000" channel="hbo-zone-hd-east">
-    <title>Movie</title>
+    <title>The Three Stooges</title>
     <sub-title>The Three Stooges</sub-title>
     <desc>Knuckleheads Larry (Sean Hayes), Curly (Will Sasso) and Moe (Chris Diamantopoulos) become embroiled in a murder plot and stumble into starring roles in a TV reality show while trying to save their childhood home.</desc>
   </programme>
   <programme start="20260118190200 +0000" stop="20260118204500 +0000" channel="hbo-zone-hd-east">
-    <title>Movie</title>
+    <title>Insidious</title>
     <sub-title>Insidious</sub-title>
     <desc>A family looks to prevent evil spirits from trapping their comatose child in a realm called The Further.</desc>
   </programme>
   <programme start="20260118204500 +0000" stop="20260118223100 +0000" channel="hbo-zone-hd-east">
-    <title>Movie</title>
+    <title>Insidious: Chapter 2</title>
     <sub-title>Insidious: Chapter 2</sub-title>
     <desc>The Lamberts believe that they have defeated the spirits that have haunted their family, but they soon discover that evil is not beaten so easily.</desc>
   </programme>
   <programme start="20260118223100 +0000" stop="20260119002800 +0000" channel="hbo-zone-hd-east">
-    <title>Movie</title>
+    <title>Megan Leavey</title>
     <sub-title>Megan Leavey</sub-title>
     <desc>Young Marine Cpl. Megan Leavey starts to identify with Rex, a particularly aggressive combat dog that she trains. Together, they complete more than 100 missions until an improvised explosive device injures both, putting their fates in jeopardy.</desc>
   </programme>
   <programme start="20260119002800 +0000" stop="20260119023500 +0000" channel="hbo-zone-hd-east">
-    <title>Movie</title>
+    <title>Hidden Figures</title>
     <sub-title>Hidden Figures</sub-title>
     <desc>NASA mathematicians Katherine Johnson, Dorothy Vaughan and Mary Jackson cross gender and race lines to help launch astronaut John Glenn into outer space.</desc>
   </programme>
   <programme start="20260119023500 +0000" stop="20260119041300 +0000" channel="hbo-zone-hd-east">
-    <title>Movie</title>
+    <title>Companion</title>
     <sub-title>Companion</sub-title>
     <desc>A weekend getaway at a remote cabin turns to chaos when it's revealed that one of the guests -- a subservient android built for human companionship -- has gone haywire.</desc>
   </programme>
   <programme start="20260119041300 +0000" stop="20260119060300 +0000" channel="hbo-zone-hd-east">
-    <title>Movie</title>
+    <title>Final Destination Bloodlines</title>
     <sub-title>Final Destination Bloodlines</sub-title>
     <desc>Plagued by a violent and recurring nightmare, a college student heads home to track down the one person who might be able to break the cycle of death and save her family from the grisly demise that inevitably awaits them all.</desc>
   </programme>
   <programme start="20260119060300 +0000" stop="20260119073600 +0000" channel="hbo-zone-hd-east">
-    <title>Movie</title>
+    <title>65</title>
     <sub-title>65</sub-title>
     <desc>After crashing on an unknown planet, two survivors quickly discover they're actually stranded on Earth -- 65 million years ago. With only one chance at a rescue, they must make their way across an unknown terrain riddled with prehistoric creatures.</desc>
   </programme>
   <programme start="20260119073600 +0000" stop="20260119091700 +0000" channel="hbo-zone-hd-east">
-    <title>Movie</title>
+    <title>Friendship</title>
     <sub-title>Friendship</sub-title>
     <desc>A suburban dad falls hard for his new neighbor.</desc>
   </programme>
   <programme start="20260119091700 +0000" stop="20260119104300 +0000" channel="hbo-zone-hd-east">
-    <title>Movie</title>
+    <title>Martin Lawrence: You So Crazy</title>
     <sub-title>Martin Lawrence: You So Crazy</sub-title>
     <desc>Martin Lawrence performs his stand-up comedy routine in a concert recorded at Brooklyn's Majestic Theatre.</desc>
   </programme>
   <programme start="20260119104300 +0000" stop="20260119121900 +0000" channel="hbo-zone-hd-east">
-    <title>Movie</title>
+    <title>Beasts of the Southern Wild</title>
     <sub-title>Beasts of the Southern Wild</sub-title>
     <desc>The father of an intrepid youngster (QuvenzhanÃ© Wallis) prepares her for the end of the world, when melting ice caps release fearsome beasts, called aurochs, and rising flood waters threaten to engulf their Delta home.</desc>
   </programme>
   <programme start="20260119104300 +0000" stop="20260119121900 +0000" channel="hbo-zone-hd-east">
-    <title>Movie</title>
+    <title>Beasts of the Southern Wild</title>
     <sub-title>Beasts of the Southern Wild</sub-title>
     <desc>The father of an intrepid youngster (QuvenzhanÃ© Wallis) prepares her for the end of the world, when melting ice caps release fearsome beasts, called aurochs, and rising flood waters threaten to engulf their Delta home.</desc>
   </programme>
   <programme start="20260119121900 +0000" stop="20260119143400 +0000" channel="hbo-zone-hd-east">
-    <title>Movie</title>
+    <title>It</title>
     <sub-title>It</sub-title>
     <desc>Seven young outcasts are about to face their worst nightmare -- an ancient, shape-shifting evil that emerges every 27 years to prey on children. Banding together, the friends must overcome their personal fears to battle the murderous clown Pennywise.</desc>
   </programme>
   <programme start="20260119143400 +0000" stop="20260119160600 +0000" channel="hbo-zone-hd-east">
-    <title>Movie</title>
+    <title>Brandy Hellville &amp; the Cult of Fast Fashion</title>
     <sub-title>Brandy Hellville &amp; the Cult of Fast Fashion</sub-title>
     <desc>The Instagram-perfect image of Brandy Melville hides a toxic work culture endemic to fast fashion, with discrimination against race, sex and body size.</desc>
   </programme>
@@ -11768,17 +11768,17 @@
     <desc>Christine (Markie Post), declared dead by a computer, is relegated to assisting her replacement. With Harry Anderson and John Larroquette.</desc>
   </programme>
   <programme start="20260118171500 +0000" stop="20260118191500 +0000" channel="independent-film-channel-us">
-    <title>Movie</title>
+    <title>Semi-Pro</title>
     <sub-title>Semi-Pro</sub-title>
     <desc>In 1976 a singer (Will Ferrell) uses the profits from his only hit to buy a basketball team that is in danger of going under when the ABA and the NBA merge.</desc>
   </programme>
   <programme start="20260118191500 +0000" stop="20260118211500 +0000" channel="independent-film-channel-us">
-    <title>Movie</title>
+    <title>Liar Liar</title>
     <sub-title>Liar Liar</sub-title>
     <desc>A boy's birthday wish comes true that his neglectful father, a fast-talking lawyer, cannot tell a lie for 24 hours.</desc>
   </programme>
   <programme start="20260118211500 +0000" stop="20260119000000 +0000" channel="independent-film-channel-us">
-    <title>Movie</title>
+    <title>The 40 Year-Old Virgin</title>
     <sub-title>The 40 Year-Old Virgin</sub-title>
     <desc>Three dysfunctional co-workers embark on a mission to help their newfound friend lose his sexual innocence.</desc>
   </programme>
@@ -11989,7 +11989,7 @@
     <desc>In 2020, 21-year-old Dioneth Lopez goes missing while on a trip to visit friends; her body turns up in the woodlands of Washington State; she is treated as a Jane Doe until detectives find surveillance footage that pieces together her final hour.</desc>
   </programme>
   <programme start="20260119020000 +0000" stop="20260119030000 +0000" channel="investigation-discovery-usa-eastern">
-    <title>Movie</title>
+    <title>Bad for Each Other</title>
     <sub-title>Bad for Each Other</sub-title>
     <desc>A Pittsburgh socialite (Lizabeth Scott) steers a young doctor (Charlton Heston) to rich patients, but a mining disaster brings him back to his roots.</desc>
   </programme>
@@ -11999,7 +11999,7 @@
     <desc>After four women vanish, fear grips Texan communities, and desperate families seek answers; with a potential serial killer back in the spotlight, Texas Ranger Jim Holland launches a high-stakes interrogation that tests wills and aims for the truth.</desc>
   </programme>
   <programme start="20260119050000 +0000" stop="20260119060000 +0000" channel="investigation-discovery-usa-eastern">
-    <title>Movie</title>
+    <title>Bad for Each Other</title>
     <sub-title>Bad for Each Other</sub-title>
     <desc>A Pittsburgh socialite (Lizabeth Scott) steers a young doctor (Charlton Heston) to rich patients, but a mining disaster brings him back to his roots.</desc>
   </programme>
@@ -12184,42 +12184,42 @@
     <display-name>Lifetime Movies East</display-name>
   </channel>
   <programme start="20260118170000 +0000" stop="20260118190000 +0000" channel="lifetime-movies-east">
-    <title>Movie</title>
+    <title>Twisted Neighbor</title>
     <sub-title>Twisted Neighbor</sub-title>
     <desc>A cookbook editor moves into a gossipy neighborhood whose residents are obsessed with an app. When one of the neighbors suddenly disappears, the group chat pinpoints her as the prime suspect.</desc>
   </programme>
   <programme start="20260118190000 +0000" stop="20260118210000 +0000" channel="lifetime-movies-east">
-    <title>Movie</title>
+    <title>Killer Fortune Teller</title>
     <sub-title>Killer Fortune Teller</sub-title>
     <desc>Shane Settel starts to believe in fate after a chance tarot reading. He has the largest success in his professional career and falls in love, but then tragedies begin to follow him.</desc>
   </programme>
   <programme start="20260118210000 +0000" stop="20260118230000 +0000" channel="lifetime-movies-east">
-    <title>Movie</title>
+    <title>Death She Wrote</title>
     <sub-title>Death She Wrote</sub-title>
     <desc>A famous author hires a personal assistant to work out of her home, not realizing that the woman is actually a deranged fan who plans on taking over her entire life.</desc>
   </programme>
   <programme start="20260118230000 +0000" stop="20260119010000 +0000" channel="lifetime-movies-east">
-    <title>Movie</title>
+    <title>My Professor's Guide to Murder</title>
     <sub-title>My Professor's Guide to Murder</sub-title>
     <desc>A graduate student begins to suspect that a murder-mystery writer is responsible for a grisly campus killing.</desc>
   </programme>
   <programme start="20260119010000 +0000" stop="20260119030000 +0000" channel="lifetime-movies-east">
-    <title>Movie</title>
+    <title>Abduction Runs in the Family</title>
     <sub-title>Abduction Runs in the Family</sub-title>
     <desc>Alyssa is a successful author who was kidnapped as a child before making a safe return seven years later. When her young daughter gets abducted from a local park, Alyssa must rely on her former captor -- just released from prison -- to help save her.</desc>
   </programme>
   <programme start="20260119030000 +0000" stop="20260119050100 +0000" channel="lifetime-movies-east">
-    <title>Movie</title>
+    <title>The Book Club Murders</title>
     <sub-title>The Book Club Murders</sub-title>
     <desc>Members of a book club start to receive threatening letters that reveal their darkest secrets. When the recipients of the letters start dying, Natalie Johnson frantically searches for the culprit to protect her daughter from becoming the next victim.</desc>
   </programme>
   <programme start="20260119050100 +0000" stop="20260119070100 +0000" channel="lifetime-movies-east">
-    <title>Movie</title>
+    <title>Abduction Runs in the Family</title>
     <sub-title>Abduction Runs in the Family</sub-title>
     <desc>Alyssa is a successful author who was kidnapped as a child before making a safe return seven years later. When her young daughter gets abducted from a local park, Alyssa must rely on her former captor -- just released from prison -- to help save her.</desc>
   </programme>
   <programme start="20260119070100 +0000" stop="20260119090200 +0000" channel="lifetime-movies-east">
-    <title>Movie</title>
+    <title>The Book Club Murders</title>
     <sub-title>The Book Club Murders</sub-title>
     <desc>Members of a book club start to receive threatening letters that reveal their darkest secrets. When the recipients of the letters start dying, Natalie Johnson frantically searches for the culprit to protect her daughter from becoming the next victim.</desc>
   </programme>
@@ -12240,17 +12240,17 @@
     <desc>Join Connie Craig-Carrol and health expert Ken Meares in this eye-opening discussion about OmegaXL. Learn how this unique supplement can help you fight the limitations of joint pain and embrace an active lifestyle.</desc>
   </programme>
   <programme start="20260119110000 +0000" stop="20260119130000 +0000" channel="lifetime-movies-east">
-    <title>Movie</title>
+    <title>Judicial Indiscretion</title>
     <sub-title>Judicial Indiscretion</sub-title>
     <desc>A federal judge (Anne Archer) faces blackmail and sexual intrigue after her lover turns out to be a male prostitute.</desc>
   </programme>
   <programme start="20260119130000 +0000" stop="20260119150000 +0000" channel="lifetime-movies-east">
-    <title>Movie</title>
+    <title>Not With My Daughter</title>
     <sub-title>Not With My Daughter</sub-title>
     <desc>After learning that her client may be guilty, a defense attorney (Ally Sheedy) finds out that the man seduced her daughter as a ploy to save himself.</desc>
   </programme>
   <programme start="20260119150000 +0000" stop="20260119170000 +0000" channel="lifetime-movies-east">
-    <title>Movie</title>
+    <title>Framed by My FiancÃ©</title>
     <sub-title>Framed by My FiancÃ©</sub-title>
     <desc>Following a deadly car crash in which her fiancÃ© was driving, a woman wakes up to learn that she is being charged with manslaughter as the driver of the vehicle.</desc>
   </programme>
@@ -12258,42 +12258,42 @@
     <display-name>Lifetime Network US Eastern Feed</display-name>
   </channel>
   <programme start="20260118170000 +0000" stop="20260118190000 +0000" channel="lifetime-network-us-eastern-feed">
-    <title>Movie</title>
+    <title>The Boarding School Murders</title>
     <sub-title>The Boarding School Murders</sub-title>
     <desc>Frankie gets the chance to leave her foster care home to attend an exclusive Swiss boarding school. However, the opportunity of a lifetime comes at a deadly price when one of her classmates is murdered and everyone is quick to blame her.</desc>
   </programme>
   <programme start="20260118190000 +0000" stop="20260118210000 +0000" channel="lifetime-network-us-eastern-feed">
-    <title>Movie</title>
+    <title>Stalked by My Amish Boyfriend</title>
     <sub-title>Stalked by My Amish Boyfriend</sub-title>
     <desc>Carly, a local college student, develops a relationship with Abram, a young Amish man. Their seemingly innocent courtship soon takes a twisted turn when Abram refuses to return home and takes Carly captive so they can be together forever.</desc>
   </programme>
   <programme start="20260118210000 +0000" stop="20260118230000 +0000" channel="lifetime-network-us-eastern-feed">
-    <title>Movie</title>
+    <title>The Girl Who Wasn't Dead</title>
     <sub-title>The Girl Who Wasn't Dead</sub-title>
     <desc>When 15-year-old Erica vanishes without a trace, authorities believe she may have been the victim of a serial killer. Erica emerges from the shadows at her own murder trial, three years after her disappearance.</desc>
   </programme>
   <programme start="20260118230000 +0000" stop="20260119010000 +0000" channel="lifetime-network-us-eastern-feed">
-    <title>Movie</title>
+    <title>Accused: The Karen Read Story</title>
     <sub-title>Accused: The Karen Read Story</sub-title>
     <desc>When police officer John O'Keefe is found dead, his girlfriend, Karen Read, is charged in connection with his death. What begins as a shocking tragedy quickly ignites a firestorm that captures national attention as Karen fights to clear her name.</desc>
   </programme>
   <programme start="20260119010000 +0000" stop="20260119030300 +0000" channel="lifetime-network-us-eastern-feed">
-    <title>Movie</title>
+    <title>The Night She Disappeared</title>
     <sub-title>The Night She Disappeared</sub-title>
     <desc>When her daughter vanishes, a single mother becomes obsessed with a local urban legend about teens disappearing after a dangerous initiation ritual. As she starts to dig deeper, she soon finds herself in the crosshairs of a sinister killer.</desc>
   </programme>
   <programme start="20260119030300 +0000" stop="20260119050100 +0000" channel="lifetime-network-us-eastern-feed">
-    <title>Movie</title>
+    <title>I Am Mary Jo Buttafuoco</title>
     <sub-title>I Am Mary Jo Buttafuoco</sub-title>
     <desc>Mary Jo Buttafuoco finds herself fighting for her life when her husband's mistress, Amy Fisher, shoots her in the head. As tabloids sensationalize the scandal and dub Amy the</desc>
   </programme>
   <programme start="20260119050100 +0000" stop="20260119070400 +0000" channel="lifetime-network-us-eastern-feed">
-    <title>Movie</title>
+    <title>The Night She Disappeared</title>
     <sub-title>The Night She Disappeared</sub-title>
     <desc>When her daughter vanishes, a single mother becomes obsessed with a local urban legend about teens disappearing after a dangerous initiation ritual. As she starts to dig deeper, she soon finds herself in the crosshairs of a sinister killer.</desc>
   </programme>
   <programme start="20260119070400 +0000" stop="20260119090200 +0000" channel="lifetime-network-us-eastern-feed">
-    <title>Movie</title>
+    <title>I Am Mary Jo Buttafuoco</title>
     <sub-title>I Am Mary Jo Buttafuoco</sub-title>
     <desc>Mary Jo Buttafuoco finds herself fighting for her life when her husband's mistress, Amy Fisher, shoots her in the head. As tabloids sensationalize the scandal and dub Amy the</desc>
   </programme>
@@ -13026,7 +13026,7 @@
     <desc>Features some of Major League Baseball's greatest games.</desc>
   </programme>
   <programme start="20260119010000 +0000" stop="20260119033000 +0000" channel="mlb-network">
-    <title>Movie</title>
+    <title>Little Big League</title>
     <sub-title>Little Big League</sub-title>
     <desc>The 12-year-old heir and manager of the Minnesota Twins coaches the baseball team to a winning streak by teaching the players to love the game once more.</desc>
   </programme>
@@ -13242,167 +13242,167 @@
     <display-name>MoreMax Eastern</display-name>
   </channel>
   <programme start="20260118151500 +0000" stop="20260118164600 +0000" channel="moremax-eastern">
-    <title>Movie</title>
+    <title>The Bling Ring</title>
     <sub-title>The Bling Ring</sub-title>
     <desc>A teenager (Israel Broussard) and his gang of fame-obsessed youths (Katie Chang, Taissa Farmiga) use the Internet to track the whereabouts of celebrities, then rob their homes.</desc>
   </programme>
   <programme start="20260118151500 +0000" stop="20260118164600 +0000" channel="moremax-eastern">
-    <title>Movie</title>
+    <title>The Bling Ring</title>
     <sub-title>The Bling Ring</sub-title>
     <desc>A teenager (Israel Broussard) and his gang of fame-obsessed youths (Katie Chang, Taissa Farmiga) use the Internet to track the whereabouts of celebrities, then rob their homes.</desc>
   </programme>
   <programme start="20260118151500 +0000" stop="20260118164600 +0000" channel="moremax-eastern">
-    <title>Movie</title>
+    <title>The Bling Ring</title>
     <sub-title>The Bling Ring</sub-title>
     <desc>A teenager (Israel Broussard) and his gang of fame-obsessed youths (Katie Chang, Taissa Farmiga) use the Internet to track the whereabouts of celebrities, then rob their homes.</desc>
   </programme>
   <programme start="20260118164600 +0000" stop="20260118183000 +0000" channel="moremax-eastern">
-    <title>Movie</title>
+    <title>The Disaster Artist</title>
     <sub-title>The Disaster Artist</sub-title>
     <desc>The incredible true story of aspiring filmmaker and Hollywood outsider Tommy Wiseau as he and his best friend defiantly pursue their dreams and embark on the hilarious odyssey of making the now-infamous, cult classic</desc>
   </programme>
   <programme start="20260118164600 +0000" stop="20260118183000 +0000" channel="moremax-eastern">
-    <title>Movie</title>
+    <title>The Disaster Artist</title>
     <sub-title>The Disaster Artist</sub-title>
     <desc>The incredible true story of aspiring filmmaker and Hollywood outsider Tommy Wiseau as he and his best friend defiantly pursue their dreams and embark on the hilarious odyssey of making the now-infamous, cult classic</desc>
   </programme>
   <programme start="20260118164600 +0000" stop="20260118183000 +0000" channel="moremax-eastern">
-    <title>Movie</title>
+    <title>The Disaster Artist</title>
     <sub-title>The Disaster Artist</sub-title>
     <desc>The incredible true story of aspiring filmmaker and Hollywood outsider Tommy Wiseau as he and his best friend defiantly pursue their dreams and embark on the hilarious odyssey of making the now-infamous, cult classic</desc>
   </programme>
   <programme start="20260118183000 +0000" stop="20260118204700 +0000" channel="moremax-eastern">
-    <title>Movie</title>
+    <title>Queer</title>
     <sub-title>Queer</sub-title>
     <desc>Lee, a solitary American in Mexico City, falls for a beautiful, elusive former soldier. Journeying together into the jungle, Lee sees, for the first time, the possibility of an intimate and infinite love.</desc>
   </programme>
   <programme start="20260118183000 +0000" stop="20260118204700 +0000" channel="moremax-eastern">
-    <title>Movie</title>
+    <title>Queer</title>
     <sub-title>Queer</sub-title>
     <desc>Lee, a solitary American in Mexico City, falls for a beautiful, elusive former soldier. Journeying together into the jungle, Lee sees, for the first time, the possibility of an intimate and infinite love.</desc>
   </programme>
   <programme start="20260118183000 +0000" stop="20260118204700 +0000" channel="moremax-eastern">
-    <title>Movie</title>
+    <title>Queer</title>
     <sub-title>Queer</sub-title>
     <desc>Lee, a solitary American in Mexico City, falls for a beautiful, elusive former soldier. Journeying together into the jungle, Lee sees, for the first time, the possibility of an intimate and infinite love.</desc>
   </programme>
   <programme start="20260118204700 +0000" stop="20260118230700 +0000" channel="moremax-eastern">
-    <title>Movie</title>
+    <title>Public Enemies</title>
     <sub-title>Public Enemies</sub-title>
     <desc>Depression-era outlaw John Dillinger (Johnny Depp) becomes the fledgling FBI's most-wanted criminal and a folk hero to much of America's downtrodden public.</desc>
   </programme>
   <programme start="20260118204700 +0000" stop="20260118230700 +0000" channel="moremax-eastern">
-    <title>Movie</title>
+    <title>Public Enemies</title>
     <sub-title>Public Enemies</sub-title>
     <desc>Depression-era outlaw John Dillinger (Johnny Depp) becomes the fledgling FBI's most-wanted criminal and a folk hero to much of America's downtrodden public.</desc>
   </programme>
   <programme start="20260118204700 +0000" stop="20260118230700 +0000" channel="moremax-eastern">
-    <title>Movie</title>
+    <title>Public Enemies</title>
     <sub-title>Public Enemies</sub-title>
     <desc>Depression-era outlaw John Dillinger (Johnny Depp) becomes the fledgling FBI's most-wanted criminal and a folk hero to much of America's downtrodden public.</desc>
   </programme>
   <programme start="20260118230700 +0000" stop="20260119005700 +0000" channel="moremax-eastern">
-    <title>Movie</title>
+    <title>Beyond the Black Rainbow</title>
     <sub-title>Beyond the Black Rainbow</sub-title>
     <desc>A heavily sedated woman (Eva Allan) with ESP tries to escape from the secluded commune where she's been held captive.</desc>
   </programme>
   <programme start="20260118230700 +0000" stop="20260119005700 +0000" channel="moremax-eastern">
-    <title>Movie</title>
+    <title>Beyond the Black Rainbow</title>
     <sub-title>Beyond the Black Rainbow</sub-title>
     <desc>A heavily sedated woman (Eva Allan) with ESP tries to escape from the secluded commune where she's been held captive.</desc>
   </programme>
   <programme start="20260118230700 +0000" stop="20260119005700 +0000" channel="moremax-eastern">
-    <title>Movie</title>
+    <title>Beyond the Black Rainbow</title>
     <sub-title>Beyond the Black Rainbow</sub-title>
     <desc>A heavily sedated woman (Eva Allan) with ESP tries to escape from the secluded commune where she's been held captive.</desc>
   </programme>
   <programme start="20260119005700 +0000" stop="20260119022600 +0000" channel="moremax-eastern">
-    <title>Movie</title>
+    <title>The Belko Experiment</title>
     <sub-title>The Belko Experiment</sub-title>
     <desc>Trapped inside their office building, 80 employees (John Gallagher Jr., Tony Goldwyn, Adria Arjona) at a Colombian corporation must play a sadistic game of survival that requires them to kill a certain number of co-workers.</desc>
   </programme>
   <programme start="20260119005700 +0000" stop="20260119022600 +0000" channel="moremax-eastern">
-    <title>Movie</title>
+    <title>The Belko Experiment</title>
     <sub-title>The Belko Experiment</sub-title>
     <desc>Trapped inside their office building, 80 employees (John Gallagher Jr., Tony Goldwyn, Adria Arjona) at a Colombian corporation must play a sadistic game of survival that requires them to kill a certain number of co-workers.</desc>
   </programme>
   <programme start="20260119005700 +0000" stop="20260119022600 +0000" channel="moremax-eastern">
-    <title>Movie</title>
+    <title>The Belko Experiment</title>
     <sub-title>The Belko Experiment</sub-title>
     <desc>Trapped inside their office building, 80 employees (John Gallagher Jr., Tony Goldwyn, Adria Arjona) at a Colombian corporation must play a sadistic game of survival that requires them to kill a certain number of co-workers.</desc>
   </programme>
   <programme start="20260119022600 +0000" stop="20260119042000 +0000" channel="moremax-eastern">
-    <title>Movie</title>
+    <title>Unknown</title>
     <sub-title>Unknown</sub-title>
     <desc>After a serious car accident, a man (Liam Neeson) awakes to find that his wife does not recognize him, that another man has assumed his identity, and that assassins are hunting him.</desc>
   </programme>
   <programme start="20260119022600 +0000" stop="20260119042000 +0000" channel="moremax-eastern">
-    <title>Movie</title>
+    <title>Unknown</title>
     <sub-title>Unknown</sub-title>
     <desc>After a serious car accident, a man (Liam Neeson) awakes to find that his wife does not recognize him, that another man has assumed his identity, and that assassins are hunting him.</desc>
   </programme>
   <programme start="20260119022600 +0000" stop="20260119042000 +0000" channel="moremax-eastern">
-    <title>Movie</title>
+    <title>Unknown</title>
     <sub-title>Unknown</sub-title>
     <desc>After a serious car accident, a man (Liam Neeson) awakes to find that his wife does not recognize him, that another man has assumed his identity, and that assassins are hunting him.</desc>
   </programme>
   <programme start="20260119042000 +0000" stop="20260119061600 +0000" channel="moremax-eastern">
-    <title>Movie</title>
+    <title>Speed</title>
     <sub-title>Speed</sub-title>
     <desc>A SWAT team ace (Keanu Reeves) must keep the speed of a Santa Monica bus above 50 mph, or a madman's (Dennis Hopper) bomb will explode.</desc>
   </programme>
   <programme start="20260119042000 +0000" stop="20260119061600 +0000" channel="moremax-eastern">
-    <title>Movie</title>
+    <title>Speed</title>
     <sub-title>Speed</sub-title>
     <desc>A SWAT team ace (Keanu Reeves) must keep the speed of a Santa Monica bus above 50 mph, or a madman's (Dennis Hopper) bomb will explode.</desc>
   </programme>
   <programme start="20260119042000 +0000" stop="20260119061600 +0000" channel="moremax-eastern">
-    <title>Movie</title>
+    <title>Speed</title>
     <sub-title>Speed</sub-title>
     <desc>A SWAT team ace (Keanu Reeves) must keep the speed of a Santa Monica bus above 50 mph, or a madman's (Dennis Hopper) bomb will explode.</desc>
   </programme>
   <programme start="20260119061600 +0000" stop="20260119080500 +0000" channel="moremax-eastern">
-    <title>Movie</title>
+    <title>Civil War</title>
     <sub-title>Civil War</sub-title>
     <desc>In a fractured near-future America balanced on the razor's edge, a group of journalists must race through battlefields to reach the White House before D.C. falls.</desc>
   </programme>
   <programme start="20260119061600 +0000" stop="20260119080500 +0000" channel="moremax-eastern">
-    <title>Movie</title>
+    <title>Civil War</title>
     <sub-title>Civil War</sub-title>
     <desc>In a fractured near-future America balanced on the razor's edge, a group of journalists must race through battlefields to reach the White House before D.C. falls.</desc>
   </programme>
   <programme start="20260119061600 +0000" stop="20260119080500 +0000" channel="moremax-eastern">
-    <title>Movie</title>
+    <title>Civil War</title>
     <sub-title>Civil War</sub-title>
     <desc>In a fractured near-future America balanced on the razor's edge, a group of journalists must race through battlefields to reach the White House before D.C. falls.</desc>
   </programme>
   <programme start="20260119080500 +0000" stop="20260119095500 +0000" channel="moremax-eastern">
-    <title>Movie</title>
+    <title>Beirut</title>
     <sub-title>Beirut</sub-title>
     <desc>In 1980s Beirut, Mason Skiles is a former U.S. diplomat who returns to service to save a colleague from the group that is possibly responsible for his own family's death.</desc>
   </programme>
   <programme start="20260119080500 +0000" stop="20260119095500 +0000" channel="moremax-eastern">
-    <title>Movie</title>
+    <title>Beirut</title>
     <sub-title>Beirut</sub-title>
     <desc>In 1980s Beirut, Mason Skiles is a former U.S. diplomat who returns to service to save a colleague from the group that is possibly responsible for his own family's death.</desc>
   </programme>
   <programme start="20260119080500 +0000" stop="20260119095500 +0000" channel="moremax-eastern">
-    <title>Movie</title>
+    <title>Beirut</title>
     <sub-title>Beirut</sub-title>
     <desc>In 1980s Beirut, Mason Skiles is a former U.S. diplomat who returns to service to save a colleague from the group that is possibly responsible for his own family's death.</desc>
   </programme>
   <programme start="20260119095500 +0000" stop="20260119115400 +0000" channel="moremax-eastern">
-    <title>Movie</title>
+    <title>Ghost Dog: The Way of the Samurai</title>
     <sub-title>Ghost Dog: The Way of the Samurai</sub-title>
     <desc>When his boss (John Tormey) turns against him, a hit man (Forest Whitaker) who lives like a samurai must fend for his life.</desc>
   </programme>
   <programme start="20260119095500 +0000" stop="20260119115400 +0000" channel="moremax-eastern">
-    <title>Movie</title>
+    <title>Ghost Dog: The Way of the Samurai</title>
     <sub-title>Ghost Dog: The Way of the Samurai</sub-title>
     <desc>When his boss (John Tormey) turns against him, a hit man (Forest Whitaker) who lives like a samurai must fend for his life.</desc>
   </programme>
   <programme start="20260119095500 +0000" stop="20260119115400 +0000" channel="moremax-eastern">
-    <title>Movie</title>
+    <title>Ghost Dog: The Way of the Samurai</title>
     <sub-title>Ghost Dog: The Way of the Samurai</sub-title>
     <desc>When his boss (John Tormey) turns against him, a hit man (Forest Whitaker) who lives like a samurai must fend for his life.</desc>
   </programme>
@@ -14061,12 +14061,12 @@
     <desc>Leonard and Penny are drawn together after a disastrous visit from Leonard's mother (Christine Baranski).</desc>
   </programme>
   <programme start="20260119000000 +0000" stop="20260119024500 +0000" channel="mtv-usa-eastern-feed">
-    <title>Movie</title>
+    <title>Just Go With It</title>
     <sub-title>Just Go With It</sub-title>
     <desc>A plastic surgeon (Adam Sandler) enlists the aid of his assistant (Jennifer Aniston) and her children to help him win the heart of a beautiful woman.</desc>
   </programme>
   <programme start="20260119024500 +0000" stop="20260119050000 +0000" channel="mtv-usa-eastern-feed">
-    <title>Movie</title>
+    <title>Pixels</title>
     <sub-title>Pixels</sub-title>
     <desc>A home-theater installer leads a team of old-school arcade champs and a military specialist in a battle against aliens who base their attacks on 1980s era video games.</desc>
   </programme>
@@ -15531,7 +15531,7 @@
     <desc>A look at the popularity and downfall of Adolf Hitler and the Nazi Party.</desc>
   </programme>
   <programme start="20260119073000 +0000" stop="20260119090000 +0000" channel="newsmax-tv">
-    <title>Movie</title>
+    <title>Queen Elizabeth II: Above All Else</title>
     <sub-title>Queen Elizabeth II: Above All Else</sub-title>
     <desc>Monarch for over six decades and the cornerstone of modern British history, Queen Elizabeth II ascended to the throne after the untimely death of her beloved father. She has seen the world change drastically and faced many great challenges.</desc>
   </programme>
@@ -15807,7 +15807,7 @@
     <desc>Granny and Grandpa take Peppa and George camping; Peppa finds a message in a bottle; Mummy Pig shows Peppa how to wink; Police Officers Panda and Squirrel visit Peppa's playgroup; Today is the fire station practice day.</desc>
   </programme>
   <programme start="20260118160000 +0000" stop="20260118180000 +0000" channel="nick-jr-east">
-    <title>Movie</title>
+    <title>PAW Patrol: The Movie</title>
     <sub-title>PAW Patrol: The Movie</sub-title>
     <desc>When their biggest rival, Humdinger, starts wreaking havoc as the mayor of Adventure City, Ryder and everyone's favorite heroic pups kick into high gear to face the challenge.</desc>
   </programme>
@@ -16016,17 +16016,17 @@
     <display-name>Nickelodeon USA East Feed</display-name>
   </channel>
   <programme start="20260118153000 +0000" stop="20260118171500 +0000" channel="nickelodeon-usa-east-feed">
-    <title>Movie</title>
+    <title>The SpongeBob SquarePants Movie</title>
     <sub-title>The SpongeBob SquarePants Movie</sub-title>
     <desc>SpongeBob (Tom Kenny) and Patrick (Bill Fagerbakke) head for Shell City to retrieve King Neptune's stolen crown and save the life of Mr. Krabs (Clancy Brown).</desc>
   </programme>
   <programme start="20260118171500 +0000" stop="20260118193000 +0000" channel="nickelodeon-usa-east-feed">
-    <title>Movie</title>
+    <title>Sing 2</title>
     <sub-title>Sing 2</sub-title>
     <desc>Buster Moon and his friends must persuade reclusive rock star Clay Calloway to join them for the opening of a new show.</desc>
   </programme>
   <programme start="20260118193000 +0000" stop="20260118214500 +0000" channel="nickelodeon-usa-east-feed">
-    <title>Movie</title>
+    <title>How to Train Your Dragon: The Hidden World</title>
     <sub-title>How to Train Your Dragon: The Hidden World</sub-title>
     <desc>When the sudden appearance of a female Light Fury coincides with the darkest threat their village has ever faced, Hiccup and Toothless must journey to a hidden world to finally discover their true destinies as dragon and rider.</desc>
   </programme>
@@ -17176,7 +17176,7 @@
     <desc>The Atlanta Symphony Orchestra and Ebenezer Baptist Church present the Dr. Martin Luther King Jr. Celebration concert; special guests include jazz singer Gregory Porter.</desc>
   </programme>
   <programme start="20260118183000 +0000" stop="20260118203000 +0000" channel="pbs-wnet-new-york-ny">
-    <title>Movie</title>
+    <title>Resistance: They Fought Back</title>
     <sub-title>Resistance: They Fought Back</sub-title>
     <desc>Interviews with historians, Holocaust survivors and their families reveal the largely unknown stories of Jewish resistance fighters who engaged in armed uprisings against the Nazis.</desc>
   </programme>
@@ -17251,7 +17251,7 @@
     <desc>Congress puts George Washington in command of a new Continental Army; Congress declares American independence in July 1776.</desc>
   </programme>
   <programme start="20260119090500 +0000" stop="20260119103300 +0000" channel="pbs-wnet-new-york-ny">
-    <title>Movie</title>
+    <title>Duck Season</title>
     <sub-title>Duck Season</sub-title>
     <desc>Unsupervised youths (Enrique Arreola, Diego CataÃ±o) spend their day playing videogames, eating and getting high on marijuana-laced brownies.</desc>
   </programme>
@@ -17679,27 +17679,27 @@
     <display-name>Showtime Eastern Feed</display-name>
   </channel>
   <programme start="20260118155500 +0000" stop="20260118175500 +0000" channel="paramount-with-showtime-eastern-feed">
-    <title>Movie</title>
+    <title>Indiana Jones and the Temple of Doom</title>
     <sub-title>Indiana Jones and the Temple of Doom</sub-title>
     <desc>In 1935 archaeologist Jones (Harrison Ford), a lounge singer (Kate Capshaw) and a Chinese orphan (Ke Huy Quan) search for mystical stones stolen from an Indian tribe.</desc>
   </programme>
   <programme start="20260118175500 +0000" stop="20260118200500 +0000" channel="paramount-with-showtime-eastern-feed">
-    <title>Movie</title>
+    <title>Indiana Jones and the Last Crusade</title>
     <sub-title>Indiana Jones and the Last Crusade</sub-title>
     <desc>Archaeologist Jones (Harrison Ford) rescues his kidnapped father (Sean Connery), and the two race the Nazis to find the Holy Grail.</desc>
   </programme>
   <programme start="20260118200500 +0000" stop="20260118221000 +0000" channel="paramount-with-showtime-eastern-feed">
-    <title>Movie</title>
+    <title>Indiana Jones and the Kingdom of the Crystal Skull</title>
     <sub-title>Indiana Jones and the Kingdom of the Crystal Skull</sub-title>
     <desc>Indy (Harrison Ford) and a young adventurer (Shia La Beouf) must ferret out a powerful artifact and keep it out of the hands of a deadly Soviet agent (Cate Blanchett).</desc>
   </programme>
   <programme start="20260118221000 +0000" stop="20260119000000 +0000" channel="paramount-with-showtime-eastern-feed">
-    <title>Movie</title>
+    <title>The Other Guys</title>
     <sub-title>The Other Guys</sub-title>
     <desc>Two deskbound detectives get more than they bargain for when they take on a seemingly minor case that may turn out to be New York's biggest crime.</desc>
   </programme>
   <programme start="20260119000000 +0000" stop="20260119020000 +0000" channel="paramount-with-showtime-eastern-feed">
-    <title>Movie</title>
+    <title>Baby Driver</title>
     <sub-title>Baby Driver</sub-title>
     <desc>Coerced into working for a crime boss, a talented getaway driver must face the music when a doomed heist threatens his life, love and freedom.</desc>
   </programme>
@@ -17708,7 +17708,7 @@
     <desc>John struggles to cope with his guilt but a bizarre hunting trip changes his perspective; Tommy's influence on him grows.</desc>
   </programme>
   <programme start="20260119025000 +0000" stop="20260119043000 +0000" channel="paramount-with-showtime-eastern-feed">
-    <title>Movie</title>
+    <title>Shaft</title>
     <sub-title>Shaft</sub-title>
     <desc>A detective (Samuel L. Jackson) and a narcotics cop (Vanessa L. Williams) track a sociopath out to kill a woman who can testify that he committed murder.</desc>
   </programme>
@@ -17717,37 +17717,37 @@
     <desc>John struggles to cope with his guilt but a bizarre hunting trip changes his perspective; Tommy's influence on him grows.</desc>
   </programme>
   <programme start="20260119052500 +0000" stop="20260119071000 +0000" channel="paramount-with-showtime-eastern-feed">
-    <title>Movie</title>
+    <title>Vicious</title>
     <sub-title>Vicious</sub-title>
     <desc>A strange ritual soon unravels into a waking nightmare when a woman receives a mysterious box that comes with instructions to place three things inside: something you need, something you hate, and something you love.</desc>
   </programme>
   <programme start="20260119071000 +0000" stop="20260119084500 +0000" channel="paramount-with-showtime-eastern-feed">
-    <title>Movie</title>
+    <title>Would You Rather</title>
     <sub-title>Would You Rather</sub-title>
     <desc>Iris (Brittany Snow) and seven other desperate people become trapped in Shepard's (Jeffrey Combs) mansion. Shepard forces them to play a sadistic game for a large sum of money -- but the dilemmas become increasingly deadly.</desc>
   </programme>
   <programme start="20260119084500 +0000" stop="20260119102500 +0000" channel="paramount-with-showtime-eastern-feed">
-    <title>Movie</title>
+    <title>The Aviary</title>
     <sub-title>The Aviary</sub-title>
     <desc>Two women flee into the New Mexican desert to escape the clutches of an insidious cult. Consumed by fear and paranoia, they can't shake the feeling that they are being followed by its leader, who is as seductive as he is controlling.</desc>
   </programme>
   <programme start="20260119102500 +0000" stop="20260119120000 +0000" channel="paramount-with-showtime-eastern-feed">
-    <title>Movie</title>
+    <title>Serendipity</title>
     <sub-title>Serendipity</sub-title>
     <desc>A man (John Cusack) and a woman (Kate Beckinsale) try to find each other after spending one night together 10 years earlier.</desc>
   </programme>
   <programme start="20260119102500 +0000" stop="20260119120000 +0000" channel="paramount-with-showtime-eastern-feed">
-    <title>Movie</title>
+    <title>Serendipity</title>
     <sub-title>Serendipity</sub-title>
     <desc>A man (John Cusack) and a woman (Kate Beckinsale) try to find each other after spending one night together 10 years earlier.</desc>
   </programme>
   <programme start="20260119120000 +0000" stop="20260119133500 +0000" channel="paramount-with-showtime-eastern-feed">
-    <title>Movie</title>
+    <title>Love Me</title>
     <sub-title>Love Me</sub-title>
     <desc>A buoy and a satellite meet online long after humanity's extinction. As they learn what life was like on Earth, they discover themselves and what it means to be alive and in love.</desc>
   </programme>
   <programme start="20260119133500 +0000" stop="20260119151500 +0000" channel="paramount-with-showtime-eastern-feed">
-    <title>Movie</title>
+    <title>Fatman</title>
     <sub-title>Fatman</sub-title>
     <desc>After receiving a lump of coal in his stocking, a disgruntled 12-year-old hires a highly skilled assassin to kill Santa Claus.</desc>
   </programme>
@@ -17755,67 +17755,67 @@
     <display-name>Showtime 2 Eastern</display-name>
   </channel>
   <programme start="20260118153500 +0000" stop="20260118175000 +0000" channel="showtime-2-eastern">
-    <title>Movie</title>
+    <title>Mission: Impossible -- Ghost Protocol</title>
     <sub-title>Mission: Impossible -- Ghost Protocol</sub-title>
     <desc>The IMF is shut down when it's implicated in the bombing of the Kremlin, causing Ethan Hunt and his new team to go rogue to clear their organization's name.</desc>
   </programme>
   <programme start="20260118175000 +0000" stop="20260118200000 +0000" channel="showtime-2-eastern">
-    <title>Movie</title>
+    <title>About Time</title>
     <sub-title>About Time</sub-title>
     <desc>After discovering that he can travel through time, a young man (Domhnall Gleeson) uses his ability to win the woman (Rachel McAdams) of his dreams and save his friend from professional disaster.</desc>
   </programme>
   <programme start="20260118200000 +0000" stop="20260118215000 +0000" channel="showtime-2-eastern">
-    <title>Movie</title>
+    <title>Mission: Impossible</title>
     <sub-title>Mission: Impossible</sub-title>
     <desc>Branded a traitor, an elite intelligence agent (Tom Cruise) investigates a failed Prague mission to retrieve a computer disk.</desc>
   </programme>
   <programme start="20260118215000 +0000" stop="20260118235500 +0000" channel="showtime-2-eastern">
-    <title>Movie</title>
+    <title>Mission: Impossible II</title>
     <sub-title>Mission: Impossible II</sub-title>
     <desc>IMF agent Ethan Hunt is sent to Sydney to find and destroy a genetically modified disease called Chimera.</desc>
   </programme>
   <programme start="20260118235500 +0000" stop="20260119020000 +0000" channel="showtime-2-eastern">
-    <title>Movie</title>
+    <title>Mission: Impossible III</title>
     <sub-title>Mission: Impossible III</sub-title>
     <desc>Now a trainer for IMF recruits, agent Ethan Hunt squares off against the toughest foe he has ever faced, a ruthless arms and information broker.</desc>
   </programme>
   <programme start="20260119020000 +0000" stop="20260119041500 +0000" channel="showtime-2-eastern">
-    <title>Movie</title>
+    <title>Mission: Impossible -- Ghost Protocol</title>
     <sub-title>Mission: Impossible -- Ghost Protocol</sub-title>
     <desc>The IMF is shut down when it's implicated in the bombing of the Kremlin, causing Ethan Hunt and his new team to go rogue to clear their organization's name.</desc>
   </programme>
   <programme start="20260119041500 +0000" stop="20260119063000 +0000" channel="showtime-2-eastern">
-    <title>Movie</title>
+    <title>Jack Reacher</title>
     <sub-title>Jack Reacher</sub-title>
     <desc>A defense attorney hires an enigmatic ex-Army investigator to tackle the case of a highly trained sniper who apparently murdered five people at random.</desc>
   </programme>
   <programme start="20260119063000 +0000" stop="20260119083000 +0000" channel="showtime-2-eastern">
-    <title>Movie</title>
+    <title>Grudge Match</title>
     <sub-title>Grudge Match</sub-title>
     <desc>A boxing promoter (Kevin Hart) offers two rival boxers (Robert De Niro, Sylvester Stallone) the chance to come out of retirement for one final bout.</desc>
   </programme>
   <programme start="20260119083000 +0000" stop="20260119100000 +0000" channel="showtime-2-eastern">
-    <title>Movie</title>
+    <title>Jackass: The Movie</title>
     <sub-title>Jackass: The Movie</sub-title>
     <desc>Nitwits (Johnny Knoxville, Bam Margera, Chris Pontius) perform outrageous stunts and pull practical jokes on an unsuspecting public.</desc>
   </programme>
   <programme start="20260119100000 +0000" stop="20260119115000 +0000" channel="showtime-2-eastern">
-    <title>Movie</title>
+    <title>50 First Dates</title>
     <sub-title>50 First Dates</sub-title>
     <desc>Henry Roth is a man afraid of commitment up until he meets the beautiful Lucy. They hit it off and Henry think he's finally found the girl of his dreams, until he discovers she has short-term memory loss and forgets him the next day.</desc>
   </programme>
   <programme start="20260119100000 +0000" stop="20260119115000 +0000" channel="showtime-2-eastern">
-    <title>Movie</title>
+    <title>50 First Dates</title>
     <sub-title>50 First Dates</sub-title>
     <desc>Henry Roth is a man afraid of commitment up until he meets the beautiful Lucy. They hit it off and Henry think he's finally found the girl of his dreams, until he discovers she has short-term memory loss and forgets him the next day.</desc>
   </programme>
   <programme start="20260119115000 +0000" stop="20260119140000 +0000" channel="showtime-2-eastern">
-    <title>Movie</title>
+    <title>Green Book</title>
     <sub-title>Green Book</sub-title>
     <desc>An Italian-American bouncer and an African-American pianist confront racism and danger while taking a road trip through the Deep South in 1962.</desc>
   </programme>
   <programme start="20260119140000 +0000" stop="20260119165000 +0000" channel="showtime-2-eastern">
-    <title>Movie</title>
+    <title>The Curious Case of Benjamin Button</title>
     <sub-title>The Curious Case of Benjamin Button</sub-title>
     <desc>Benjamin Button (Brad Pitt) is born an old man in 1918 New Orleans and ages in reverse and, in so doing, becomes intimately familiar with the natures of love and death.</desc>
   </programme>
@@ -18986,12 +18986,12 @@
     <desc>Haunted by his days as a mercenary, Lukas lives in the shadows, scraping together a living as a waste picker; after overhearing a cry for help while scavenging, he is thrust back into a world of violence he thought he'd left behind.</desc>
   </programme>
   <programme start="20260118165000 +0000" stop="20260118182500 +0000" channel="starz-eastern">
-    <title>Movie</title>
+    <title>Trouble Man</title>
     <sub-title>Trouble Man</sub-title>
     <desc>A former cop turned private investigator gets hired to find a missing R&amp;B star. His investigation uncovers a connection to a larger conspiracy, forcing him to question those around him and his own past.</desc>
   </programme>
   <programme start="20260118182500 +0000" stop="20260118201400 +0000" channel="starz-eastern">
-    <title>Movie</title>
+    <title>ATL</title>
     <sub-title>ATL</sub-title>
     <desc>Four Atlanta teenagers, whose lives revolve around hip-hop and rollerskating, face life-changing challenges on and off the rink.</desc>
   </programme>
@@ -19060,32 +19060,32 @@
     <desc>Haunted by his days as a mercenary, Lukas lives in the shadows, scraping together a living as a waste picker; after overhearing a cry for help while scavenging, he is thrust back into a world of violence he thought he'd left behind.</desc>
   </programme>
   <programme start="20260119065700 +0000" stop="20260119084300 +0000" channel="starz-eastern">
-    <title>Movie</title>
+    <title>6 Ways to Die</title>
     <sub-title>6 Ways to Die</sub-title>
     <desc>John Doe (Vinnie Jones) makes it his mission to make Sonny</desc>
   </programme>
   <programme start="20260119084300 +0000" stop="20260119101500 +0000" channel="starz-eastern">
-    <title>Movie</title>
+    <title>The Night Clerk</title>
     <sub-title>The Night Clerk</sub-title>
     <desc>A hotel clerk becomes the prime suspect when a woman is murdered during his shift. As the police investigation closes in, he makes a personal connection with a guest -- but soon realizes he must stop the killer before she becomes the next victim.</desc>
   </programme>
   <programme start="20260119101500 +0000" stop="20260119122000 +0000" channel="starz-eastern">
-    <title>Movie</title>
+    <title>Ghostbusters: Afterlife</title>
     <sub-title>Ghostbusters: Afterlife</sub-title>
     <desc>When a single mother and her two children move to a new town, they soon discover they have a connection to the original Ghostbusters and the secret legacy their grandfather left behind.</desc>
   </programme>
   <programme start="20260119101500 +0000" stop="20260119122000 +0000" channel="starz-eastern">
-    <title>Movie</title>
+    <title>Ghostbusters: Afterlife</title>
     <sub-title>Ghostbusters: Afterlife</sub-title>
     <desc>When a single mother and her two children move to a new town, they soon discover they have a connection to the original Ghostbusters and the secret legacy their grandfather left behind.</desc>
   </programme>
   <programme start="20260119122000 +0000" stop="20260119141000 +0000" channel="starz-eastern">
-    <title>Movie</title>
+    <title>Pompeii</title>
     <sub-title>Pompeii</sub-title>
     <desc>As Mount Vesuvius rains down lava and ash, a gladiator (Kit Harington) races to save the woman (Emily Browning) he loves before the city collapses.</desc>
   </programme>
   <programme start="20260119141000 +0000" stop="20260119155200 +0000" channel="starz-eastern">
-    <title>Movie</title>
+    <title>Freedom Hair</title>
     <sub-title>Freedom Hair</sub-title>
     <desc>When a mother decides to start a natural hair braiding business to achieve financial independence, she must overcome obstacles imposed by a powerful cosmetology cartel and the state of Mississippi.</desc>
   </programme>
@@ -19093,37 +19093,37 @@
     <display-name>SundanceTV USA East</display-name>
   </channel>
   <programme start="20260118170000 +0000" stop="20260118200000 +0000" channel="sundancetv-usa-east">
-    <title>Movie</title>
+    <title>Face/Off</title>
     <sub-title>Face/Off</sub-title>
     <desc>An FBI agent (John Travolta) and his nemesis (Nicolas Cage) trade physical identities.</desc>
   </programme>
   <programme start="20260118200000 +0000" stop="20260118223000 +0000" channel="sundancetv-usa-east">
-    <title>Movie</title>
+    <title>Contagion</title>
     <sub-title>Contagion</sub-title>
     <desc>The world panics as doctors race to find a cure for a rapidly spreading virus that kills those contaminated within days.</desc>
   </programme>
   <programme start="20260118223000 +0000" stop="20260119010000 +0000" channel="sundancetv-usa-east">
-    <title>Movie</title>
+    <title>Dante's Peak</title>
     <sub-title>Dante's Peak</sub-title>
     <desc>A volcanologist (Pierce Brosnan) and his new love (Linda Hamilton) flee a deadly eruption in the Pacific Northwest.</desc>
   </programme>
   <programme start="20260119010000 +0000" stop="20260119033000 +0000" channel="sundancetv-usa-east">
-    <title>Movie</title>
+    <title>Twister</title>
     <sub-title>Twister</sub-title>
     <desc>Storm-chasers (Helen Hunt, Bill Paxton) finalizing their divorce try to place equipment inside a tornado on the Oklahoma plains.</desc>
   </programme>
   <programme start="20260119033000 +0000" stop="20260119060000 +0000" channel="sundancetv-usa-east">
-    <title>Movie</title>
+    <title>Twister</title>
     <sub-title>Twister</sub-title>
     <desc>Storm-chasers (Helen Hunt, Bill Paxton) finalizing their divorce try to place equipment inside a tornado on the Oklahoma plains.</desc>
   </programme>
   <programme start="20260119060000 +0000" stop="20260119083000 +0000" channel="sundancetv-usa-east">
-    <title>Movie</title>
+    <title>Contagion</title>
     <sub-title>Contagion</sub-title>
     <desc>The world panics as doctors race to find a cure for a rapidly spreading virus that kills those contaminated within days.</desc>
   </programme>
   <programme start="20260119083000 +0000" stop="20260119110000 +0000" channel="sundancetv-usa-east">
-    <title>Movie</title>
+    <title>Dante's Peak</title>
     <sub-title>Dante's Peak</sub-title>
     <desc>A volcanologist (Pierce Brosnan) and his new love (Linda Hamilton) flee a deadly eruption in the Pacific Northwest.</desc>
   </programme>
@@ -19176,27 +19176,27 @@
     <display-name>Syfy Eastern Feed</display-name>
   </channel>
   <programme start="20260118153000 +0000" stop="20260118190000 +0000" channel="syfy-eastern-feed">
-    <title>Movie</title>
+    <title>Harry Potter and the Goblet of Fire</title>
     <sub-title>Harry Potter and the Goblet of Fire</sub-title>
     <desc>During Harry's fourth year at Hogwarts a competition will be held between three schools of wizardry, and contestants will be magically chosen for the very dangerous event.</desc>
   </programme>
   <programme start="20260118190000 +0000" stop="20260118220000 +0000" channel="syfy-eastern-feed">
-    <title>Movie</title>
+    <title>Harry Potter and the Order of the Phoenix</title>
     <sub-title>Harry Potter and the Order of the Phoenix</sub-title>
     <desc>A summer has passed since Harry's encounter with the Dark Lord. With the wizard community in peril the future of magic may depend on Harry and a secret society known as The Order of the Phoenix.</desc>
   </programme>
   <programme start="20260118220000 +0000" stop="20260119013000 +0000" channel="syfy-eastern-feed">
-    <title>Movie</title>
+    <title>Harry Potter and the Half-Blood Prince</title>
     <sub-title>Harry Potter and the Half-Blood Prince</sub-title>
     <desc>While Death Eaters emboldened by the return of Lord Voldemort wreak havoc in both the Muggle and Wizarding worlds, Harry suspects new dangers lie within Hogwarts.</desc>
   </programme>
   <programme start="20260119013000 +0000" stop="20260119043500 +0000" channel="syfy-eastern-feed">
-    <title>Movie</title>
+    <title>Harry Potter and the Deathly Hallows: Part 1</title>
     <sub-title>Harry Potter and the Deathly Hallows: Part 1</sub-title>
     <desc>In the first part of the seventh and final adventure, Harry, Ron and Hermione set out on their perilous mission to destroy the secret to Voldemort's immortality and destruction: the Horcruxes.</desc>
   </programme>
   <programme start="20260119043500 +0000" stop="20260119073000 +0000" channel="syfy-eastern-feed">
-    <title>Movie</title>
+    <title>Harry Potter and the Deathly Hallows: Part 2</title>
     <sub-title>Harry Potter and the Deathly Hallows: Part 2</sub-title>
     <desc>Making their final stand upon the ramparts of Hogwarts School of Witchcraft and Wizardry, Harry Potter, Ron and Hermione face their greatest foe and make a sacrifice on their journey.</desc>
   </programme>
@@ -19236,12 +19236,12 @@
     <desc>An assassin plots a unique death for a defector (Martin Landau).</desc>
   </programme>
   <programme start="20260119110000 +0000" stop="20260119130000 +0000" channel="syfy-eastern-feed">
-    <title>Movie</title>
+    <title>Brian and Charles</title>
     <sub-title>Brian and Charles</sub-title>
     <desc>Brian is a lonely and unlucky inventor who takes on his most ambitious project yet -- an artificial intelligence robot made from odds and ends, including an old washing machine.</desc>
   </programme>
   <programme start="20260119130000 +0000" stop="20260119163000 +0000" channel="syfy-eastern-feed">
-    <title>Movie</title>
+    <title>Harry Potter and the Half-Blood Prince</title>
     <sub-title>Harry Potter and the Half-Blood Prince</sub-title>
     <desc>While Death Eaters emboldened by the return of Lord Voldemort wreak havoc in both the Muggle and Wizarding worlds, Harry suspects new dangers lie within Hogwarts.</desc>
   </programme>
@@ -19274,17 +19274,17 @@
     <desc>Rachel feels like her younger sister, Amy, is finally on the verge of making a major change in her attitude; in order to help Amy become a more responsible person, Rachel overrides Ross' strong protests and allows Amy to baby-sit Emma.</desc>
   </programme>
   <programme start="20260118180000 +0000" stop="20260118203000 +0000" channel="tbs-east">
-    <title>Movie</title>
+    <title>The Mummy</title>
     <sub-title>The Mummy</sub-title>
     <desc>In ancient city Hamunaptra, an American serving in the French Foreign Legion accidentally awakens a mummy who wreaks havoc as he searches for the reincarnation of his long-lost love.</desc>
   </programme>
   <programme start="20260118203000 +0000" stop="20260118230000 +0000" channel="tbs-east">
-    <title>Movie</title>
+    <title>The Mummy Returns</title>
     <sub-title>The Mummy Returns</sub-title>
     <desc>The mummified body of Imhotep is shipped to a museum in London, where he once again wakes and begins his campaign of rage and terror.</desc>
   </programme>
   <programme start="20260118230000 +0000" stop="20260119010000 +0000" channel="tbs-east">
-    <title>Movie</title>
+    <title>Rampage</title>
     <sub-title>Rampage</sub-title>
     <desc>When three different animals become infected with a dangerous pathogen, a primatologist and a geneticist team up to stop them from destroying Chicago.</desc>
   </programme>
@@ -19319,17 +19319,17 @@
     <desc>Sheldon is determined to convince Amy they should procreate; Koothrappali is reluctant to tell the gang what the new woman he's dating does for a living.</desc>
   </programme>
   <programme start="20260119040000 +0000" stop="20260119063000 +0000" channel="tbs-east">
-    <title>Movie</title>
+    <title>The Mummy</title>
     <sub-title>The Mummy</sub-title>
     <desc>In ancient city Hamunaptra, an American serving in the French Foreign Legion accidentally awakens a mummy who wreaks havoc as he searches for the reincarnation of his long-lost love.</desc>
   </programme>
   <programme start="20260119063000 +0000" stop="20260119090000 +0000" channel="tbs-east">
-    <title>Movie</title>
+    <title>Gemini Man</title>
     <sub-title>Gemini Man</sub-title>
     <desc>Henry Brogan is an elite assassin who becomes the target of a mysterious operative who can seemingly predict his every move. To his horror, he soon learns that the man who's trying to kill him is a younger, faster, cloned version of himself.</desc>
   </programme>
   <programme start="20260119090000 +0000" stop="20260119110000 +0000" channel="tbs-east">
-    <title>Movie</title>
+    <title>21 Bridges</title>
     <sub-title>21 Bridges</sub-title>
     <desc>After uncovering a conspiracy, an embattled NYPD detective joins a citywide manhunt for two cop killers. When the search intensifies, authorities take extreme measures by closing all of Manhattan's 21 bridges to prevent the suspects from escaping.</desc>
   </programme>
@@ -19374,7 +19374,7 @@
     <desc>Sheldon is caught in a moral dilemma when offered a bootleg copy of a computer game he can't afford; Mary and Meemaw take Brenda out for girls' night; Missy asks Georgie to take her and Marcus on a secret date.</desc>
   </programme>
   <programme start="20260119150000 +0000" stop="20260119170000 +0000" channel="tbs-east">
-    <title>Movie</title>
+    <title>21 Bridges</title>
     <sub-title>21 Bridges</sub-title>
     <desc>After uncovering a conspiracy, an embattled NYPD detective joins a citywide manhunt for two cop killers. When the search intensifies, authorities take extreme measures by closing all of Manhattan's 21 bridges to prevent the suspects from escaping.</desc>
   </programme>
@@ -19669,12 +19669,12 @@
     <desc>Revive los goles y las mejores jugadas de cada jornada. Disfruta el anÃ¡lisis y escucha las reacciones de los protagonistas.</desc>
   </programme>
   <programme start="20260118190000 +0000" stop="20260118203000 +0000" channel="telemundo-eastern-feed">
-    <title>Movie</title>
+    <title>Precious Cargo</title>
     <sub-title>Precious Cargo</sub-title>
     <desc>DespuÃ©s de que un atraco sale mal, dos ladrones, antiguos amantes, son el objetivo de un asesino. Pronto, el trabajo fallido provoca un fatÃ­dico enfrentamiento entre Jack, Karen y Eddie.</desc>
   </programme>
   <programme start="20260118203000 +0000" stop="20260118230000 +0000" channel="telemundo-eastern-feed">
-    <title>Movie</title>
+    <title>The Equalizer 2</title>
     <sub-title>The Equalizer 2</sub-title>
     <desc>Robert McCall es un veterano exagente del gobierno que decide seguir combatiendo por su cuenta a la delincuencia. Una vieja amiga es secuestrada y McCall deberÃ¡ enfrentar un tipo de maldad que no conoce.</desc>
   </programme>
@@ -19724,7 +19724,7 @@
     <desc>Vanessa y VerÃ³nica quieren desalojar a su madre, Marta, por imponer reglas severas y maltratar fÃ­sica y psicolÃ³gicamente a los nietos, a quienes cuida mientras ellas trabajan fuera de la casa.</desc>
   </programme>
   <programme start="20260119070000 +0000" stop="20260119090000 +0000" channel="telemundo-eastern-feed">
-    <title>Movie</title>
+    <title>Como MÃ©xico No Hay Dos</title>
     <sub-title>Como MÃ©xico No Hay Dos</sub-title>
     <desc>Un humilde campesino demuestra su talento como cantante y logra convertirse en una estrella de la mÃºsica, pero no saber cÃ³mo sobrellevar tanto Ã©xito lo conduce a un inesperado desenlace.</desc>
   </programme>
@@ -20270,67 +20270,67 @@
     <display-name>TMC (US) Eastern Feed</display-name>
   </channel>
   <programme start="20260118150500 +0000" stop="20260118164000 +0000" channel="tmc-us-eastern-feed">
-    <title>Movie</title>
+    <title>Don't Knock Twice</title>
     <sub-title>Don't Knock Twice</sub-title>
     <desc>A mother looking to reconnect with her estranged daughter attracts the attention of a demonic witch.</desc>
   </programme>
   <programme start="20260118164000 +0000" stop="20260118184000 +0000" channel="tmc-us-eastern-feed">
-    <title>Movie</title>
+    <title>The Return</title>
     <sub-title>The Return</sub-title>
     <desc>After 20 years away, Odysseus washes up on the shores of Ithaca. The king finds much has changed since he left to fight in the Trojan War. No longer the mighty warrior his people remember, Odysseus must face his past to save his family.</desc>
   </programme>
   <programme start="20260118184000 +0000" stop="20260118201500 +0000" channel="tmc-us-eastern-feed">
-    <title>Movie</title>
+    <title>The Bye Bye Man</title>
     <sub-title>The Bye Bye Man</sub-title>
     <desc>A couple (Douglas Smith, Cressida Bonas) and their friend (Lucien Laviscount) stumble upon the horrific origins of the Bye Bye Man (Doug Jones), a mysterious figure that they discover is the root cause of the evil behind the most unspeakable acts.</desc>
   </programme>
   <programme start="20260118201500 +0000" stop="20260118221500 +0000" channel="tmc-us-eastern-feed">
-    <title>Movie</title>
+    <title>Revolutionary Road</title>
     <sub-title>Revolutionary Road</sub-title>
     <desc>In 1950s Connecticut, two suburbanites (Leonardo DiCaprio, Kate Winslet) become increasingly dissatisfied with their marriage and society's expectations of conformity.</desc>
   </programme>
   <programme start="20260118221500 +0000" stop="20260119010000 +0000" channel="tmc-us-eastern-feed">
-    <title>Movie</title>
+    <title>The English Patient</title>
     <sub-title>The English Patient</sub-title>
     <desc>A Hungarian count's (Ralph Fiennes) fling with a British newlywed leads to tragedy in World War II North Africa.</desc>
   </programme>
   <programme start="20260119010000 +0000" stop="20260119030000 +0000" channel="tmc-us-eastern-feed">
-    <title>Movie</title>
+    <title>Road to Perdition</title>
     <sub-title>Road to Perdition</sub-title>
     <desc>Accompanied by his eldest son, a Depression-era mob enforcer (Tom Hanks) seeks revenge after the rest of his family are murdered by his employer's (Paul Newman) jealous son.</desc>
   </programme>
   <programme start="20260119030000 +0000" stop="20260119051000 +0000" channel="tmc-us-eastern-feed">
-    <title>Movie</title>
+    <title>Rules of Engagement</title>
     <sub-title>Rules of Engagement</sub-title>
     <desc>A decorated career Marine (Samuel L. Jackson), about to stand trial for a botched rescue mission, asks an old friend (Tommy Lee Jones) to defend him.</desc>
   </programme>
   <programme start="20260119051000 +0000" stop="20260119071000 +0000" channel="tmc-us-eastern-feed">
-    <title>Movie</title>
+    <title>The Return</title>
     <sub-title>The Return</sub-title>
     <desc>After 20 years away, Odysseus washes up on the shores of Ithaca. The king finds much has changed since he left to fight in the Trojan War. No longer the mighty warrior his people remember, Odysseus must face his past to save his family.</desc>
   </programme>
   <programme start="20260119071000 +0000" stop="20260119092000 +0000" channel="tmc-us-eastern-feed">
-    <title>Movie</title>
+    <title>The Terminal</title>
     <sub-title>The Terminal</sub-title>
     <desc>Unauthorized to enter the United States, an Eastern European (Tom Hanks) befriends a flight attendant (Catherine Zeta-Jones) while living in a New York airport.</desc>
   </programme>
   <programme start="20260119092000 +0000" stop="20260119110000 +0000" channel="tmc-us-eastern-feed">
-    <title>Movie</title>
+    <title>Wayne's World</title>
     <sub-title>Wayne's World</sub-title>
     <desc>Wayne and Garth battle an evil TV producer in this big-screen adaptation of the</desc>
   </programme>
   <programme start="20260119110000 +0000" stop="20260119123000 +0000" channel="tmc-us-eastern-feed">
-    <title>Movie</title>
+    <title>Sasquatch Sunset</title>
     <sub-title>Sasquatch Sunset</sub-title>
     <desc>In the misty forests of North America, a family of Sasquatches find themselves on a collision course with the ever-changing world around them.</desc>
   </programme>
   <programme start="20260119123000 +0000" stop="20260119145000 +0000" channel="tmc-us-eastern-feed">
-    <title>Movie</title>
+    <title>Noah</title>
     <sub-title>Noah</sub-title>
     <desc>God chooses Noah (Russell Crowe) to build an ark and save the animals and his family from an apocalyptic flood.</desc>
   </programme>
   <programme start="20260119145000 +0000" stop="20260119164500 +0000" channel="tmc-us-eastern-feed">
-    <title>Movie</title>
+    <title>Ride</title>
     <sub-title>Ride</sub-title>
     <desc>Desperate to raise money for his daughter's cancer treatment, a retired bull rider teams up with his estranged son to orchestrate a robbery. However, they must soon outwit the local police if they want to keep the cash and their freedom.</desc>
   </programme>
@@ -20343,32 +20343,32 @@
     <desc>When the director of a Brooklyn migrant center is abducted and held hostage along with his wife, the team must work quickly to meet the demands of their kidnapper; Maggie picks Jessica's brain about motherhood.</desc>
   </programme>
   <programme start="20260118170000 +0000" stop="20260118201500 +0000" channel="tnt-eastern-feed">
-    <title>Movie</title>
+    <title>Wonder Woman 1984</title>
     <sub-title>Wonder Woman 1984</sub-title>
     <desc>Wonder Woman musters all of her strength, wisdom and courage as she finds herself squaring off against Maxwell Lord and the Cheetah, a villainess who possesses superhuman strength and agility.</desc>
   </programme>
   <programme start="20260118201500 +0000" stop="20260118223000 +0000" channel="tnt-eastern-feed">
-    <title>Movie</title>
+    <title>Skyscraper</title>
     <sub-title>Skyscraper</sub-title>
     <desc>A security expert must infiltrate a burning skyscraper, 225 stories above ground, when his family is trapped inside by criminals.</desc>
   </programme>
   <programme start="20260118223000 +0000" stop="20260119010000 +0000" channel="tnt-eastern-feed">
-    <title>Movie</title>
+    <title>Godzilla x Kong: The New Empire</title>
     <sub-title>Godzilla x Kong: The New Empire</sub-title>
     <desc>Godzilla and the almighty Kong face a colossal threat hidden deep within the planet, challenging their very existence and the survival of the human race.</desc>
   </programme>
   <programme start="20260119010000 +0000" stop="20260119040000 +0000" channel="tnt-eastern-feed">
-    <title>Movie</title>
+    <title>The Tomorrow War</title>
     <sub-title>The Tomorrow War</sub-title>
     <desc>Soldiers and civilians travel to the year 2051 to join a global war against a deadly alien species.</desc>
   </programme>
   <programme start="20260119040000 +0000" stop="20260119060000 +0000" channel="tnt-eastern-feed">
-    <title>Movie</title>
+    <title>Skyscraper</title>
     <sub-title>Skyscraper</sub-title>
     <desc>A security expert must infiltrate a burning skyscraper, 225 stories above ground, when his family is trapped inside by criminals.</desc>
   </programme>
   <programme start="20260119060000 +0000" stop="20260119090000 +0000" channel="tnt-eastern-feed">
-    <title>Movie</title>
+    <title>The Tomorrow War</title>
     <sub-title>The Tomorrow War</sub-title>
     <desc>Soldiers and civilians travel to the year 2051 to join a global war against a deadly alien species.</desc>
   </programme>
@@ -20403,7 +20403,7 @@
     <desc>The sisters' nightmares spring to life, and they can escape only by unveiling the symbolic meaning of their dreams.</desc>
   </programme>
   <programme start="20260119150000 +0000" stop="20260119180000 +0000" channel="tnt-eastern-feed">
-    <title>Movie</title>
+    <title>King Richard</title>
     <sub-title>King Richard</sub-title>
     <desc>Armed with a clear vision and a brazen, 78-page plan, determined father and coach Richard Williams inspires his two daughters, Venus and Serena, to become tennis champions.</desc>
   </programme>
@@ -20540,17 +20540,17 @@
     <display-name>truTV USA Eastern</display-name>
   </channel>
   <programme start="20260118163000 +0000" stop="20260118190000 +0000" channel="trutv-usa-eastern">
-    <title>Movie</title>
+    <title>Suicide Squad</title>
     <sub-title>Suicide Squad</sub-title>
     <desc>Deadshot, Harley Quinn, Captain Boomerang, Killer Croc and other armed supervillains unite to battle a mysterious and powerful entity, while the diabolical Joker launches an evil agenda of his own.</desc>
   </programme>
   <programme start="20260118190000 +0000" stop="20260118213000 +0000" channel="trutv-usa-eastern">
-    <title>Movie</title>
+    <title>Green Lantern</title>
     <sub-title>Green Lantern</sub-title>
     <desc>The Green Lanterns have little regard for humans, who have been unable to harness the powers of the ring each member wears. But Jordan, a test pilot, may be the corps' only hope when an enemy called Parallax threatens the universal balance of power.</desc>
   </programme>
   <programme start="20260118213000 +0000" stop="20260119003000 +0000" channel="trutv-usa-eastern">
-    <title>Movie</title>
+    <title>King Richard</title>
     <sub-title>King Richard</sub-title>
     <desc>Armed with a clear vision and a brazen, 78-page plan, determined father and coach Richard Williams inspires his two daughters, Venus and Serena, to become tennis champions.</desc>
   </programme>
@@ -20565,12 +20565,12 @@
     <desc>From Sephora Arena in Miami.</desc>
   </programme>
   <programme start="20260119030000 +0000" stop="20260119060000 +0000" channel="trutv-usa-eastern">
-    <title>Movie</title>
+    <title>King Richard</title>
     <sub-title>King Richard</sub-title>
     <desc>Armed with a clear vision and a brazen, 78-page plan, determined father and coach Richard Williams inspires his two daughters, Venus and Serena, to become tennis champions.</desc>
   </programme>
   <programme start="20260119060000 +0000" stop="20260119083000 +0000" channel="trutv-usa-eastern">
-    <title>Movie</title>
+    <title>Suicide Squad</title>
     <sub-title>Suicide Squad</sub-title>
     <desc>Deadshot, Harley Quinn, Captain Boomerang, Killer Croc and other armed supervillains unite to battle a mysterious and powerful entity, while the diabolical Joker launches an evil agenda of his own.</desc>
   </programme>
@@ -21056,42 +21056,42 @@
     <display-name>Turner Classic Movies USA</display-name>
   </channel>
   <programme start="20260118171500 +0000" stop="20260118190000 +0000" channel="turner-classic-movies-usa">
-    <title>Movie</title>
+    <title>Cinderella Jones</title>
     <sub-title>Cinderella Jones</sub-title>
     <desc>A bandleader's (Robert Alda) girlfriend (Joan Leslie) needs a brainy husband in order to claim her fortune.</desc>
   </programme>
   <programme start="20260118190000 +0000" stop="20260118203000 +0000" channel="turner-classic-movies-usa">
-    <title>Movie</title>
+    <title>The Affairs of Martha</title>
     <sub-title>The Affairs of Martha</sub-title>
     <desc>A maid (Marsha Hunt) in love with her employers' son (Richard Carlson) writes a book about them all, causing a stir.</desc>
   </programme>
   <programme start="20260118203000 +0000" stop="20260118224500 +0000" channel="turner-classic-movies-usa">
-    <title>Movie</title>
+    <title>Kings Row</title>
     <sub-title>Kings Row</sub-title>
     <desc>Sin surrounds a Freudian doctor (Robert Cummings), his playboy buddy (Ronald Reagan) and the buddy's girlfriend (Ann Sheridan) in a circa-1900 town.</desc>
   </programme>
   <programme start="20260118224500 +0000" stop="20260119010000 +0000" channel="turner-classic-movies-usa">
-    <title>Movie</title>
+    <title>Bright Leaf</title>
     <sub-title>Bright Leaf</sub-title>
     <desc>Backed by a rich madam (Lauren Bacall), a Southerner (Gary Cooper) ruins a tobacco tycoon with a cigarette-making machine.</desc>
   </programme>
   <programme start="20260119010000 +0000" stop="20260119030000 +0000" channel="turner-classic-movies-usa">
-    <title>Movie</title>
+    <title>The Carey Treatment</title>
     <sub-title>The Carey Treatment</sub-title>
     <desc>A Boston doctor (James Coburn) hunts a killer to clear a colleague charged with an abortion-related manslaughter.</desc>
   </programme>
   <programme start="20260119030000 +0000" stop="20260119050000 +0000" channel="turner-classic-movies-usa">
-    <title>Movie</title>
+    <title>Coma</title>
     <sub-title>Coma</sub-title>
     <desc>A doctor (GeneviÃ¨ve Bujold) links her hospital's high coma rate to a black market in vital organs.</desc>
   </programme>
   <programme start="20260119050000 +0000" stop="20260119064500 +0000" channel="turner-classic-movies-usa">
-    <title>Movie</title>
+    <title>The Love Light</title>
     <sub-title>The Love Light</sub-title>
     <desc>An American (Mary Pickford) working as a lighthouse keeper in World War I Italy unwittingly weds an enemy soldier.</desc>
   </programme>
   <programme start="20260119064500 +0000" stop="20260119081500 +0000" channel="turner-classic-movies-usa">
-    <title>Movie</title>
+    <title>The Gate of Heaven</title>
     <sub-title>The Gate of Heaven</sub-title>
     <desc>A trainload of pilgrims travels to a sacred site to find a miracle cure.</desc>
   </programme>
@@ -21101,22 +21101,22 @@
     <desc>A lonely old man struggles to maintain his dignity while leading a meager existence with his dog as his only companion.</desc>
   </programme>
   <programme start="20260119094500 +0000" stop="20260119110000 +0000" channel="turner-classic-movies-usa">
-    <title>Movie</title>
+    <title>Brothers in the Saddle</title>
     <sub-title>Brothers in the Saddle</sub-title>
     <desc>A cowboy (Tim Holt) tries to reform his outlaw brother (Steve Brodie) and finally shoots him in the shoulder.</desc>
   </programme>
   <programme start="20260119110000 +0000" stop="20260119123000 +0000" channel="turner-classic-movies-usa">
-    <title>Movie</title>
+    <title>Edge of the City</title>
     <sub-title>Edge of the City</sub-title>
     <desc>A labor boss (Jack Warden) harasses a longshoreman (Sidney Poitier) and his fugitive white friend (John Cassavetes).</desc>
   </programme>
   <programme start="20260119123000 +0000" stop="20260119140000 +0000" channel="turner-classic-movies-usa">
-    <title>Movie</title>
+    <title>Intruder in the Dust</title>
     <sub-title>Intruder in the Dust</sub-title>
     <desc>An attorney in a small Southern town reluctantly takes on the case of a black farmer accused of murder.</desc>
   </programme>
   <programme start="20260119140000 +0000" stop="20260119154500 +0000" channel="turner-classic-movies-usa">
-    <title>Movie</title>
+    <title>Take a Giant Step</title>
     <sub-title>Take a Giant Step</sub-title>
     <desc>Based on Louis S. Peterson's play about a black teenager coping with life in a predominantly white society.</desc>
   </programme>
@@ -21635,7 +21635,7 @@
     <desc>El Adonis de las colonias populares, el VÃ­tor, muestra la lucha de los Argentos contra los Migajeros para ganar hasta 6 000 dÃ³lares.</desc>
   </programme>
   <programme start="20260118210000 +0000" stop="20260118230000 +0000" channel="univision-eastern-feed">
-    <title>Movie</title>
+    <title>Cantinflas</title>
     <sub-title>Cantinflas</sub-title>
     <desc>A pesar de su humilde origen, Cantinflas transitÃ³ desde los escenarios pequeÃ±os hasta las luces brillantes de Hollywood y se convirtiÃ³ en una estrella muy querida por el pÃºblico en las comedias mexicanas.</desc>
   </programme>
@@ -21681,7 +21681,7 @@
     <desc>El lugar para revivir los sucesos y las noticias mÃ¡s importantes del fin de semana, combinados con entrevistas, emotivas historias y reseÃ±as de todo el mundo deportivo. Secciones dedicadas a fÃºtbol, NFL, MLB, NBA y mÃ¡s.</desc>
   </programme>
   <programme start="20260119060000 +0000" stop="20260119080000 +0000" channel="univision-eastern-feed">
-    <title>Movie</title>
+    <title>Cantinflas</title>
     <sub-title>Cantinflas</sub-title>
     <desc>A pesar de su humilde origen, Cantinflas transitÃ³ desde los escenarios pequeÃ±os hasta las luces brillantes de Hollywood y se convirtiÃ³ en una estrella muy querida por el pÃºblico en las comedias mexicanas.</desc>
   </programme>
@@ -21910,17 +21910,17 @@
     <desc>Seeking fulfillment, Jay goes back to college despite Michael's protests; Jr.'s buddies (Damon Wayans Jr., Michael Wayans) decide to turn his old baby crib into a hip new machine.</desc>
   </programme>
   <programme start="20260118230000 +0000" stop="20260119010000 +0000" channel="vh1-eastern-feed">
-    <title>Movie</title>
+    <title>Rush Hour 2</title>
     <sub-title>Rush Hour 2</sub-title>
     <desc>Two detectives (Jackie Chan, Chris Tucker) battle a Hong Kong gangster (John Lone) and his henchmen after a bombing at the U.S. Embassy.</desc>
   </programme>
   <programme start="20260119010000 +0000" stop="20260119030000 +0000" channel="vh1-eastern-feed">
-    <title>Movie</title>
+    <title>Rush Hour 3</title>
     <sub-title>Rush Hour 3</sub-title>
     <desc>The assassination of Ambassador Han leads to the reunion of Lee and Carter. In Paris, the pair must stay one step ahead of Chinese gangsters and Lee's childhood friend, as they track down an envelope containing the identity of a powerful crime lord.</desc>
   </programme>
   <programme start="20260119030000 +0000" stop="20260119053000 +0000" channel="vh1-eastern-feed">
-    <title>Movie</title>
+    <title>The Blues Brothers</title>
     <sub-title>The Blues Brothers</sub-title>
     <desc>Joliet Jake (John Belushi) and Elwood Blues (Dan Aykroyd), brothers on a mission from God, bomb around Chicago in an old police car, reuniting their hot band.</desc>
   </programme>
@@ -22346,7 +22346,7 @@
     <desc>Featured magicians Yann Yuro, Helen Coghlan, Jason Michaels and Alexander Boyce.</desc>
   </programme>
   <programme start="20260119010000 +0000" stop="20260119030000 +0000" channel="wpix-new-york-superstation">
-    <title>Movie</title>
+    <title>Two Weeks Notice</title>
     <sub-title>Two Weeks Notice</sub-title>
     <desc>A millionaire (Hugh Grant) confronts his feelings for his lawyer (Sandra Bullock), who is quitting after five years of service.</desc>
   </programme>
